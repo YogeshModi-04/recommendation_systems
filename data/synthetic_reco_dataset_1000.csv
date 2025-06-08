@@ -1,0 +1,1001 @@
+user_id,Age,Gender,Location,product_id,Product,Brand,Gender_category,Brand_category,product_category,category,cost
+000082,25,M,Jaipur,501,JBL Earbuds,JBL,M,JBL,Earbuds,Electronics,5572 INR
+000095,24,M,Patna,502,Nike Sneakers,Nike,M,Nike,Sneakers,Fashion,2488 INR
+000012,31,M,Vadodara,503,Himalaya Face Wash,Himalaya,M,Himalaya,Face Wash,Beauty & Personal Care,674 INR
+000026,59,F,Pune,504,Bajaj Mixer Grinder,Bajaj,F,Bajaj,Mixer Grinder,Home & Kitchen,1606 INR
+000098,28,F,Lucknow,505,Adidas T-shirt,Adidas,F,Adidas,T-shirt,Fashion,740 INR
+000098,39,M,Chennai,506,Nike Sneakers,Nike,M,Nike,Sneakers,Fashion,7881 INR
+000045,56,F,Bangalore,507,Philips Mixer Grinder,Philips,F,Philips,Mixer Grinder,Home & Kitchen,7701 INR
+000011,53,F,Thiruvananthapuram,508,Wrangler Jeans,Wrangler,F,Wrangler,Jeans,Fashion,1369 INR
+000006,60,M,Chandigarh,509,Dell Laptop,Dell,M,Dell,Laptop,Electronics,143571 INR
+000013,42,F,Nagpur,510,Wrangler Jeans,Wrangler,F,Wrangler,Jeans,Fashion,3832 INR
+000046,31,F,Chennai,511,Mamaearth Face Wash,Mamaearth,F,Mamaearth,Face Wash,Beauty & Personal Care,646 INR
+000094,33,M,Nagpur,512,Puma Sneakers,Puma,M,Puma,Sneakers,Fashion,11125 INR
+000029,38,M,Pune,513,Xiaomi Smartphone,Xiaomi,M,Xiaomi,Smartphone,Electronics,67581 INR
+000035,22,M,Patna,514,Wrangler Jeans,Wrangler,M,Wrangler,Jeans,Fashion,4889 INR
+000051,59,F,Hyderabad,515,Adidas T-shirt,Adidas,F,Adidas,T-shirt,Fashion,805 INR
+000096,53,F,Patna,516,Reebok Sneakers,Reebok,F,Reebok,Sneakers,Fashion,7930 INR
+000029,26,F,Chennai,517,Apple Smartphone,Apple,F,Apple,Smartphone,Electronics,35033 INR
+000081,28,F,Thiruvananthapuram,518,Lenovo Laptop,Lenovo,F,Lenovo,Laptop,Electronics,80019 INR
+000077,47,F,Surat,519,Apple Smartphone,Apple,F,Apple,Smartphone,Electronics,85381 INR
+000097,35,F,Delhi,520,Uniqlo T-shirt,Uniqlo,F,Uniqlo,T-shirt,Fashion,623 INR
+000059,18,F,Vadodara,521,Apple Smartwatch,Apple,F,Apple,Smartwatch,Electronics,42979 INR
+000039,58,M,Hyderabad,522,Wrangler Jeans,Wrangler,M,Wrangler,Jeans,Fashion,804 INR
+000077,38,F,Ahmedabad,523,HP Laptop,HP,F,HP,Laptop,Electronics,145175 INR
+000040,33,M,Pune,524,Himalaya Face Wash,Himalaya,M,Himalaya,Face Wash,Beauty & Personal Care,187 INR
+000094,49,M,Surat,525,Samsung Smartwatch,Samsung,M,Samsung,Smartwatch,Electronics,45237 INR
+000061,53,M,Jaipur,526,Boldfit Yoga Mat,Boldfit,M,Boldfit,Yoga Mat,Sports & Outdoors,1167 INR
+000070,30,F,Indore,527,Spykar Jeans,Spykar,F,Spykar,Jeans,Fashion,4498 INR
+000016,33,M,Chennai,528,Levi's Jeans,Levi's,M,Levi's,Jeans,Fashion,2685 INR
+000076,32,M,Chennai,529,Samsung Smartphone,Samsung,M,Samsung,Smartphone,Electronics,23834 INR
+000005,39,M,Vadodara,530,Sony Earbuds,Sony,M,Sony,Earbuds,Electronics,16906 INR
+000028,52,M,Patna,531,Cetaphil Face Wash,Cetaphil,M,Cetaphil,Face Wash,Beauty & Personal Care,348 INR
+000061,44,M,Delhi,532,Lenovo Laptop,Lenovo,M,Lenovo,Laptop,Electronics,76438 INR
+000055,44,F,Bangalore,533,Apple Laptop,Apple,F,Apple,Laptop,Electronics,82772 INR
+000094,39,M,Pune,534,JBL Earbuds,JBL,M,JBL,Earbuds,Electronics,18573 INR
+000058,26,F,Kolkata,535,Uniqlo T-shirt,Uniqlo,F,Uniqlo,T-shirt,Fashion,811 INR
+000010,46,M,Bangalore,536,Nivia Yoga Mat,Nivia,M,Nivia,Yoga Mat,Sports & Outdoors,682 INR
+000097,33,M,Coimbatore,537,Butterfly Mixer Grinder,Butterfly,M,Butterfly,Mixer Grinder,Home & Kitchen,5002 INR
+000052,21,M,Indore,538,OnePlus Smartphone,OnePlus,M,OnePlus,Smartphone,Electronics,49760 INR
+000059,36,F,Surat,539,Prestige Mixer Grinder,Prestige,F,Prestige,Mixer Grinder,Home & Kitchen,4611 INR
+000038,31,M,Patna,540,Nivia Yoga Mat,Nivia,M,Nivia,Yoga Mat,Sports & Outdoors,1584 INR
+000008,21,F,Vadodara,541,Decathlon Yoga Mat,Decathlon,F,Decathlon,Yoga Mat,Sports & Outdoors,532 INR
+000066,23,M,Chennai,542,Himalaya Face Wash,Himalaya,M,Himalaya,Face Wash,Beauty & Personal Care,791 INR
+000031,43,M,Patna,543,boAt Earbuds,boAt,M,boAt,Earbuds,Electronics,3686 INR
+000054,60,F,Jaipur,544,Sony Earbuds,Sony,F,Sony,Earbuds,Electronics,8821 INR
+000034,43,M,Chandigarh,545,Bajaj Mixer Grinder,Bajaj,M,Bajaj,Mixer Grinder,Home & Kitchen,2688 INR
+000002,47,M,Chennai,546,Decathlon Yoga Mat,Decathlon,M,Decathlon,Yoga Mat,Sports & Outdoors,2372 INR
+000034,26,F,Chennai,547,Sony Earbuds,Sony,F,Sony,Earbuds,Electronics,10338 INR
+000021,46,F,Thiruvananthapuram,548,Nivia Yoga Mat,Nivia,F,Nivia,Yoga Mat,Sports & Outdoors,2571 INR
+000039,60,M,Hyderabad,549,Nike T-shirt,Nike,M,Nike,T-shirt,Fashion,519 INR
+000096,53,M,Jaipur,550,Puma T-shirt,Puma,M,Puma,T-shirt,Fashion,731 INR
+000092,39,M,Jaipur,551,Boldfit Yoga Mat,Boldfit,M,Boldfit,Yoga Mat,Sports & Outdoors,1328 INR
+000007,23,F,Jaipur,552,Apple Smartphone,Apple,F,Apple,Smartphone,Electronics,58719 INR
+000099,26,F,Kolkata,553,Butterfly Mixer Grinder,Butterfly,F,Butterfly,Mixer Grinder,Home & Kitchen,1658 INR
+000015,22,M,Surat,554,Xiaomi Smartphone,Xiaomi,M,Xiaomi,Smartphone,Electronics,91350 INR
+000071,27,F,Hyderabad,555,Xiaomi Smartphone,Xiaomi,F,Xiaomi,Smartphone,Electronics,62795 INR
+000006,40,M,Pune,556,HP Laptop,HP,M,HP,Laptop,Electronics,132251 INR
+000072,44,M,Pune,557,Samsung Smartwatch,Samsung,M,Samsung,Smartwatch,Electronics,29020 INR
+000004,29,F,Coimbatore,558,Sony Earbuds,Sony,F,Sony,Earbuds,Electronics,6216 INR
+000090,24,F,Bangalore,559,Prestige Mixer Grinder,Prestige,F,Prestige,Mixer Grinder,Home & Kitchen,4769 INR
+000059,40,F,Pune,560,boAt Earbuds,boAt,F,boAt,Earbuds,Electronics,7328 INR
+000052,39,F,Chennai,561,H&M T-shirt,H&M,F,H&M,T-shirt,Fashion,1613 INR
+000066,43,F,Ahmedabad,562,HP Laptop,HP,F,HP,Laptop,Electronics,53405 INR
+000075,34,M,Delhi,563,Cetaphil Face Wash,Cetaphil,M,Cetaphil,Face Wash,Beauty & Personal Care,453 INR
+000094,38,F,Thiruvananthapuram,564,Nivia Yoga Mat,Nivia,F,Nivia,Yoga Mat,Sports & Outdoors,1877 INR
+000074,30,F,Bangalore,565,Nike Sneakers,Nike,F,Nike,Sneakers,Fashion,10518 INR
+000069,60,M,Bhopal,566,Nike Sneakers,Nike,M,Nike,Sneakers,Fashion,7409 INR
+000080,38,M,Chandigarh,567,Domyos Yoga Mat,Domyos,M,Domyos,Yoga Mat,Sports & Outdoors,1972 INR
+000042,43,F,Surat,568,Samsung Smartwatch,Samsung,F,Samsung,Smartwatch,Electronics,29554 INR
+000086,42,M,Thiruvananthapuram,569,Ponds Face Wash,Ponds,M,Ponds,Face Wash,Beauty & Personal Care,515 INR
+000071,18,F,Chandigarh,570,Apple Earbuds,Apple,F,Apple,Earbuds,Electronics,11559 INR
+000060,46,F,Mumbai,571,Boldfit Yoga Mat,Boldfit,F,Boldfit,Yoga Mat,Sports & Outdoors,995 INR
+000085,23,F,Vadodara,572,Ponds Face Wash,Ponds,F,Ponds,Face Wash,Beauty & Personal Care,195 INR
+000097,33,F,Pune,573,JBL Earbuds,JBL,F,JBL,Earbuds,Electronics,1800 INR
+000006,33,F,Thiruvananthapuram,574,Lenovo Laptop,Lenovo,F,Lenovo,Laptop,Electronics,84321 INR
+000081,54,M,Indore,575,Butterfly Mixer Grinder,Butterfly,M,Butterfly,Mixer Grinder,Home & Kitchen,5497 INR
+000019,59,M,Delhi,576,Adidas Sneakers,Adidas,M,Adidas,Sneakers,Fashion,4881 INR
+000090,51,F,Bangalore,577,Decathlon Yoga Mat,Decathlon,F,Decathlon,Yoga Mat,Sports & Outdoors,797 INR
+000059,26,F,Vadodara,578,Domyos Yoga Mat,Domyos,F,Domyos,Yoga Mat,Sports & Outdoors,2112 INR
+000079,50,F,Surat,579,Prestige Mixer Grinder,Prestige,F,Prestige,Mixer Grinder,Home & Kitchen,9277 INR
+000058,34,M,Jaipur,580,Boldfit Yoga Mat,Boldfit,M,Boldfit,Yoga Mat,Sports & Outdoors,2867 INR
+000031,35,F,Chennai,581,Adidas T-shirt,Adidas,F,Adidas,T-shirt,Fashion,856 INR
+000043,38,M,Hyderabad,582,Samsung Smartwatch,Samsung,M,Samsung,Smartwatch,Electronics,27102 INR
+000089,27,M,Chennai,583,Reebok Sneakers,Reebok,M,Reebok,Sneakers,Fashion,7421 INR
+000070,47,F,Bangalore,584,Apple Earbuds,Apple,F,Apple,Earbuds,Electronics,13762 INR
+000099,55,M,Patna,585,Reebok Sneakers,Reebok,M,Reebok,Sneakers,Fashion,2096 INR
+000046,37,F,Coimbatore,586,Decathlon Yoga Mat,Decathlon,F,Decathlon,Yoga Mat,Sports & Outdoors,2299 INR
+000029,35,F,Visakhapatnam,587,OnePlus Smartphone,OnePlus,F,OnePlus,Smartphone,Electronics,59057 INR
+000086,43,M,Nagpur,588,Apple Smartwatch,Apple,M,Apple,Smartwatch,Electronics,27822 INR
+000076,54,M,Chennai,589,Adidas Sneakers,Adidas,M,Adidas,Sneakers,Fashion,9564 INR
+000024,21,F,Indore,590,Wrangler Jeans,Wrangler,F,Wrangler,Jeans,Fashion,4524 INR
+000042,39,F,Jaipur,591,Puma Sneakers,Puma,F,Puma,Sneakers,Fashion,3341 INR
+000061,19,M,Bhopal,592,boAt Earbuds,boAt,M,boAt,Earbuds,Electronics,2319 INR
+000097,19,M,Mumbai,593,Realme Smartphone,Realme,M,Realme,Smartphone,Electronics,34973 INR
+000031,26,F,Delhi,594,Mamaearth Face Wash,Mamaearth,F,Mamaearth,Face Wash,Beauty & Personal Care,576 INR
+000090,34,F,Kolkata,595,Himalaya Face Wash,Himalaya,F,Himalaya,Face Wash,Beauty & Personal Care,267 INR
+000040,24,M,Chandigarh,596,Cetaphil Face Wash,Cetaphil,M,Cetaphil,Face Wash,Beauty & Personal Care,506 INR
+000092,30,M,Patna,597,boAt Earbuds,boAt,M,boAt,Earbuds,Electronics,10882 INR
+000088,56,M,Patna,598,Xiaomi Smartphone,Xiaomi,M,Xiaomi,Smartphone,Electronics,84827 INR
+000055,60,F,Chennai,599,Domyos Yoga Mat,Domyos,F,Domyos,Yoga Mat,Sports & Outdoors,351 INR
+000054,49,M,Coimbatore,600,Spykar Jeans,Spykar,M,Spykar,Jeans,Fashion,2053 INR
+000056,29,F,Thiruvananthapuram,601,Boldfit Yoga Mat,Boldfit,F,Boldfit,Yoga Mat,Sports & Outdoors,2204 INR
+000056,55,F,Lucknow,602,boAt Earbuds,boAt,F,boAt,Earbuds,Electronics,10139 INR
+000058,33,F,Patna,603,Cetaphil Face Wash,Cetaphil,F,Cetaphil,Face Wash,Beauty & Personal Care,444 INR
+000004,49,F,Kolkata,604,Prestige Mixer Grinder,Prestige,F,Prestige,Mixer Grinder,Home & Kitchen,7313 INR
+000034,39,F,Thiruvananthapuram,605,Puma T-shirt,Puma,F,Puma,T-shirt,Fashion,320 INR
+000067,30,M,Pune,606,Reebok Sneakers,Reebok,M,Reebok,Sneakers,Fashion,11096 INR
+000098,33,F,Visakhapatnam,607,Philips Mixer Grinder,Philips,F,Philips,Mixer Grinder,Home & Kitchen,3024 INR
+000038,32,F,Pune,608,Puma T-shirt,Puma,F,Puma,T-shirt,Fashion,1055 INR
+000061,53,F,Coimbatore,609,Domyos Yoga Mat,Domyos,F,Domyos,Yoga Mat,Sports & Outdoors,1741 INR
+000090,47,F,Chandigarh,610,Adidas T-shirt,Adidas,F,Adidas,T-shirt,Fashion,547 INR
+000093,30,F,Delhi,611,Decathlon Yoga Mat,Decathlon,F,Decathlon,Yoga Mat,Sports & Outdoors,1084 INR
+000028,48,F,Patna,612,Domyos Yoga Mat,Domyos,F,Domyos,Yoga Mat,Sports & Outdoors,711 INR
+000025,36,M,Bhopal,613,Fitbit Smartwatch,Fitbit,M,Fitbit,Smartwatch,Electronics,2927 INR
+000091,52,M,Jaipur,614,Apple Smartphone,Apple,M,Apple,Smartphone,Electronics,87529 INR
+000038,26,F,Delhi,615,Realme Smartphone,Realme,F,Realme,Smartphone,Electronics,52268 INR
+000061,48,F,Lucknow,616,Apple Smartwatch,Apple,F,Apple,Smartwatch,Electronics,18546 INR
+000062,25,M,Indore,617,Philips Mixer Grinder,Philips,M,Philips,Mixer Grinder,Home & Kitchen,2378 INR
+000020,27,F,Chennai,618,boAt Earbuds,boAt,F,boAt,Earbuds,Electronics,19286 INR
+000098,44,M,Vadodara,619,Reebok Sneakers,Reebok,M,Reebok,Sneakers,Fashion,9253 INR
+000039,55,F,Chandigarh,620,Himalaya Face Wash,Himalaya,F,Himalaya,Face Wash,Beauty & Personal Care,724 INR
+000095,24,M,Mumbai,621,Nike T-shirt,Nike,M,Nike,T-shirt,Fashion,621 INR
+000031,29,M,Kolkata,622,OnePlus Smartphone,OnePlus,M,OnePlus,Smartphone,Electronics,74048 INR
+000089,56,F,Chandigarh,623,Samsung Smartphone,Samsung,F,Samsung,Smartphone,Electronics,52762 INR
+000091,36,F,Chennai,624,Sony Earbuds,Sony,F,Sony,Earbuds,Electronics,7482 INR
+000055,25,M,Hyderabad,625,Adidas T-shirt,Adidas,M,Adidas,T-shirt,Fashion,446 INR
+000008,28,F,Thiruvananthapuram,626,Ponds Face Wash,Ponds,F,Ponds,Face Wash,Beauty & Personal Care,549 INR
+000016,47,F,Indore,627,Puma T-shirt,Puma,F,Puma,T-shirt,Fashion,1405 INR
+000064,46,M,Thiruvananthapuram,628,OnePlus Smartphone,OnePlus,M,OnePlus,Smartphone,Electronics,57247 INR
+000078,34,M,Chennai,629,boAt Earbuds,boAt,M,boAt,Earbuds,Electronics,9831 INR
+000074,20,M,Visakhapatnam,630,Boldfit Yoga Mat,Boldfit,M,Boldfit,Yoga Mat,Sports & Outdoors,1439 INR
+000024,55,F,Visakhapatnam,631,Lenovo Laptop,Lenovo,F,Lenovo,Laptop,Electronics,75607 INR
+000053,39,F,Delhi,632,Fitbit Smartwatch,Fitbit,F,Fitbit,Smartwatch,Electronics,28977 INR
+000089,49,F,Indore,633,Nivia Yoga Mat,Nivia,F,Nivia,Yoga Mat,Sports & Outdoors,2162 INR
+000012,38,F,Lucknow,634,Lenovo Laptop,Lenovo,F,Lenovo,Laptop,Electronics,143365 INR
+000066,18,F,Coimbatore,635,Samsung Smartphone,Samsung,F,Samsung,Smartphone,Electronics,82952 INR
+000047,57,F,Nagpur,636,Samsung Smartphone,Samsung,F,Samsung,Smartphone,Electronics,50003 INR
+000071,26,F,Nagpur,637,Philips Mixer Grinder,Philips,F,Philips,Mixer Grinder,Home & Kitchen,1972 INR
+000081,56,M,Kolkata,638,Puma T-shirt,Puma,M,Puma,T-shirt,Fashion,328 INR
+000071,44,M,Pune,639,Lenovo Laptop,Lenovo,M,Lenovo,Laptop,Electronics,45396 INR
+000083,27,F,Chandigarh,640,Domyos Yoga Mat,Domyos,F,Domyos,Yoga Mat,Sports & Outdoors,2001 INR
+000062,48,M,Nagpur,641,Decathlon Yoga Mat,Decathlon,M,Decathlon,Yoga Mat,Sports & Outdoors,1871 INR
+000025,56,M,Chennai,642,Uniqlo T-shirt,Uniqlo,M,Uniqlo,T-shirt,Fashion,996 INR
+000065,35,M,Chandigarh,643,Puma T-shirt,Puma,M,Puma,T-shirt,Fashion,1487 INR
+000085,49,M,Nagpur,644,Boldfit Yoga Mat,Boldfit,M,Boldfit,Yoga Mat,Sports & Outdoors,1713 INR
+000043,53,F,Nagpur,645,Wrangler Jeans,Wrangler,F,Wrangler,Jeans,Fashion,2756 INR
+000074,42,M,Coimbatore,646,Xiaomi Smartphone,Xiaomi,M,Xiaomi,Smartphone,Electronics,76993 INR
+000091,42,F,Hyderabad,647,Philips Mixer Grinder,Philips,F,Philips,Mixer Grinder,Home & Kitchen,3568 INR
+000065,55,F,Delhi,648,Philips Mixer Grinder,Philips,F,Philips,Mixer Grinder,Home & Kitchen,8986 INR
+000002,27,F,Hyderabad,649,Lenovo Laptop,Lenovo,F,Lenovo,Laptop,Electronics,132436 INR
+000034,39,F,Chennai,650,Spykar Jeans,Spykar,F,Spykar,Jeans,Fashion,3394 INR
+000081,49,M,Thiruvananthapuram,651,Dell Laptop,Dell,M,Dell,Laptop,Electronics,112727 INR
+000088,36,M,Chennai,652,Nike Sneakers,Nike,M,Nike,Sneakers,Fashion,3646 INR
+000057,28,F,Ahmedabad,653,Xiaomi Smartphone,Xiaomi,F,Xiaomi,Smartphone,Electronics,22355 INR
+000038,40,F,Coimbatore,654,Samsung Smartwatch,Samsung,F,Samsung,Smartwatch,Electronics,36810 INR
+000053,54,M,Kolkata,655,Apple Smartwatch,Apple,M,Apple,Smartwatch,Electronics,41943 INR
+000049,57,M,Visakhapatnam,656,Mamaearth Face Wash,Mamaearth,M,Mamaearth,Face Wash,Beauty & Personal Care,337 INR
+000060,58,F,Nagpur,657,Nike T-shirt,Nike,F,Nike,T-shirt,Fashion,1947 INR
+000060,36,M,Chennai,658,Bajaj Mixer Grinder,Bajaj,M,Bajaj,Mixer Grinder,Home & Kitchen,6401 INR
+000082,45,F,Nagpur,659,Adidas T-shirt,Adidas,F,Adidas,T-shirt,Fashion,1087 INR
+000062,24,M,Indore,660,Ponds Face Wash,Ponds,M,Ponds,Face Wash,Beauty & Personal Care,688 INR
+000038,36,M,Indore,661,Nike T-shirt,Nike,M,Nike,T-shirt,Fashion,1459 INR
+000088,21,F,Chandigarh,662,Sony Earbuds,Sony,F,Sony,Earbuds,Electronics,8176 INR
+000082,30,F,Hyderabad,663,Apple Laptop,Apple,F,Apple,Laptop,Electronics,70492 INR
+000057,20,F,Hyderabad,664,HP Laptop,HP,F,HP,Laptop,Electronics,72823 INR
+000096,44,M,Mumbai,665,Fitbit Smartwatch,Fitbit,M,Fitbit,Smartwatch,Electronics,36789 INR
+000065,35,M,Jaipur,666,Bajaj Mixer Grinder,Bajaj,M,Bajaj,Mixer Grinder,Home & Kitchen,7049 INR
+000015,47,M,Hyderabad,667,Apple Earbuds,Apple,M,Apple,Earbuds,Electronics,19262 INR
+000047,23,F,Ahmedabad,668,Puma T-shirt,Puma,F,Puma,T-shirt,Fashion,553 INR
+000059,41,F,Patna,669,Puma Sneakers,Puma,F,Puma,Sneakers,Fashion,3775 INR
+000087,32,F,Ahmedabad,670,Ponds Face Wash,Ponds,F,Ponds,Face Wash,Beauty & Personal Care,724 INR
+000029,59,M,Nagpur,671,Uniqlo T-shirt,Uniqlo,M,Uniqlo,T-shirt,Fashion,538 INR
+000018,20,M,Chandigarh,672,Philips Mixer Grinder,Philips,M,Philips,Mixer Grinder,Home & Kitchen,3092 INR
+000031,52,M,Indore,673,Bajaj Mixer Grinder,Bajaj,M,Bajaj,Mixer Grinder,Home & Kitchen,8366 INR
+000076,27,F,Delhi,674,Butterfly Mixer Grinder,Butterfly,F,Butterfly,Mixer Grinder,Home & Kitchen,6083 INR
+000005,41,M,Nagpur,675,Prestige Mixer Grinder,Prestige,M,Prestige,Mixer Grinder,Home & Kitchen,7442 INR
+000013,41,F,Bangalore,676,Puma Sneakers,Puma,F,Puma,Sneakers,Fashion,5109 INR
+000016,47,M,Mumbai,677,Himalaya Face Wash,Himalaya,M,Himalaya,Face Wash,Beauty & Personal Care,151 INR
+000043,33,M,Patna,678,boAt Earbuds,boAt,M,boAt,Earbuds,Electronics,19160 INR
+000027,55,M,Pune,679,Wrangler Jeans,Wrangler,M,Wrangler,Jeans,Fashion,823 INR
+000036,27,M,Surat,680,Adidas T-shirt,Adidas,M,Adidas,T-shirt,Fashion,525 INR
+000085,19,M,Ahmedabad,681,Wrangler Jeans,Wrangler,M,Wrangler,Jeans,Fashion,3452 INR
+000003,29,F,Bangalore,682,Noise Smartwatch,Noise,F,Noise,Smartwatch,Electronics,36477 INR
+000015,22,F,Nagpur,683,Levi's Jeans,Levi's,F,Levi's,Jeans,Fashion,4502 INR
+000065,32,M,Vadodara,684,Uniqlo T-shirt,Uniqlo,M,Uniqlo,T-shirt,Fashion,1617 INR
+000004,21,F,Indore,685,Nike Sneakers,Nike,F,Nike,Sneakers,Fashion,10032 INR
+000092,46,M,Chennai,686,Wrangler Jeans,Wrangler,M,Wrangler,Jeans,Fashion,1338 INR
+000017,35,F,Indore,687,Ponds Face Wash,Ponds,F,Ponds,Face Wash,Beauty & Personal Care,564 INR
+000065,56,F,Delhi,688,Asus Laptop,Asus,F,Asus,Laptop,Electronics,124481 INR
+000028,45,F,Pune,689,Puma Sneakers,Puma,F,Puma,Sneakers,Fashion,9430 INR
+000052,44,M,Lucknow,690,Puma Sneakers,Puma,M,Puma,Sneakers,Fashion,6176 INR
+000048,27,F,Chennai,691,Apple Laptop,Apple,F,Apple,Laptop,Electronics,42219 INR
+000056,24,F,Hyderabad,692,Nivia Yoga Mat,Nivia,F,Nivia,Yoga Mat,Sports & Outdoors,2702 INR
+000072,53,F,Delhi,693,Puma Sneakers,Puma,F,Puma,Sneakers,Fashion,8929 INR
+000093,21,F,Thiruvananthapuram,694,H&M T-shirt,H&M,F,H&M,T-shirt,Fashion,512 INR
+000074,50,M,Hyderabad,695,Prestige Mixer Grinder,Prestige,M,Prestige,Mixer Grinder,Home & Kitchen,3273 INR
+000045,53,F,Delhi,696,Puma T-shirt,Puma,F,Puma,T-shirt,Fashion,763 INR
+000055,53,M,Thiruvananthapuram,697,Nike T-shirt,Nike,M,Nike,T-shirt,Fashion,669 INR
+000035,37,F,Bhopal,698,Samsung Smartphone,Samsung,F,Samsung,Smartphone,Electronics,33776 INR
+000073,60,F,Chennai,699,Apple Smartwatch,Apple,F,Apple,Smartwatch,Electronics,8013 INR
+000096,51,M,Indore,700,Reebok Sneakers,Reebok,M,Reebok,Sneakers,Fashion,7585 INR
+000021,41,F,Lucknow,701,Himalaya Face Wash,Himalaya,F,Himalaya,Face Wash,Beauty & Personal Care,153 INR
+000020,28,M,Chennai,702,Uniqlo T-shirt,Uniqlo,M,Uniqlo,T-shirt,Fashion,1655 INR
+000055,49,F,Coimbatore,703,Adidas T-shirt,Adidas,F,Adidas,T-shirt,Fashion,1846 INR
+000066,25,F,Coimbatore,704,HP Laptop,HP,F,HP,Laptop,Electronics,118895 INR
+000087,55,F,Vadodara,705,Nike T-shirt,Nike,F,Nike,T-shirt,Fashion,751 INR
+000051,56,M,Ahmedabad,706,Sony Earbuds,Sony,M,Sony,Earbuds,Electronics,7921 INR
+000099,26,F,Chandigarh,707,Levi's Jeans,Levi's,F,Levi's,Jeans,Fashion,863 INR
+000064,45,M,Hyderabad,708,Adidas Sneakers,Adidas,M,Adidas,Sneakers,Fashion,10196 INR
+000072,60,F,Chennai,709,Nike Sneakers,Nike,F,Nike,Sneakers,Fashion,9147 INR
+000003,47,M,Lucknow,710,Cetaphil Face Wash,Cetaphil,M,Cetaphil,Face Wash,Beauty & Personal Care,687 INR
+000052,58,F,Chandigarh,711,Lenovo Laptop,Lenovo,F,Lenovo,Laptop,Electronics,32733 INR
+000042,28,F,Bhopal,712,Lenovo Laptop,Lenovo,F,Lenovo,Laptop,Electronics,140688 INR
+000014,33,F,Patna,713,Nike Sneakers,Nike,F,Nike,Sneakers,Fashion,8484 INR
+000040,39,M,Lucknow,714,Apple Smartwatch,Apple,M,Apple,Smartwatch,Electronics,35455 INR
+000082,25,M,Bhopal,715,Wrangler Jeans,Wrangler,M,Wrangler,Jeans,Fashion,2735 INR
+000014,27,F,Mumbai,716,Samsung Smartwatch,Samsung,F,Samsung,Smartwatch,Electronics,44959 INR
+000010,29,F,Nagpur,717,Cetaphil Face Wash,Cetaphil,F,Cetaphil,Face Wash,Beauty & Personal Care,797 INR
+000073,59,F,Lucknow,718,Noise Smartwatch,Noise,F,Noise,Smartwatch,Electronics,6475 INR
+000061,46,F,Jaipur,719,Himalaya Face Wash,Himalaya,F,Himalaya,Face Wash,Beauty & Personal Care,460 INR
+000065,22,F,Nagpur,720,Philips Mixer Grinder,Philips,F,Philips,Mixer Grinder,Home & Kitchen,2432 INR
+000048,36,M,Chennai,721,Cetaphil Face Wash,Cetaphil,M,Cetaphil,Face Wash,Beauty & Personal Care,573 INR
+000075,53,M,Nagpur,722,Mamaearth Face Wash,Mamaearth,M,Mamaearth,Face Wash,Beauty & Personal Care,429 INR
+000078,48,M,Bangalore,723,Philips Mixer Grinder,Philips,M,Philips,Mixer Grinder,Home & Kitchen,7126 INR
+000092,23,M,Bangalore,724,Apple Earbuds,Apple,M,Apple,Earbuds,Electronics,15398 INR
+000068,51,M,Bhopal,725,Lee Jeans,Lee,M,Lee,Jeans,Fashion,3973 INR
+000053,39,M,Lucknow,726,HP Laptop,HP,M,HP,Laptop,Electronics,42387 INR
+000072,42,F,Jaipur,727,Mamaearth Face Wash,Mamaearth,F,Mamaearth,Face Wash,Beauty & Personal Care,441 INR
+000011,55,M,Bhopal,728,Uniqlo T-shirt,Uniqlo,M,Uniqlo,T-shirt,Fashion,564 INR
+000077,23,F,Surat,729,Puma Sneakers,Puma,F,Puma,Sneakers,Fashion,4093 INR
+000086,51,M,Coimbatore,730,Domyos Yoga Mat,Domyos,M,Domyos,Yoga Mat,Sports & Outdoors,374 INR
+000047,37,M,Mumbai,731,Spykar Jeans,Spykar,M,Spykar,Jeans,Fashion,2372 INR
+000029,26,M,Chennai,732,Nike T-shirt,Nike,M,Nike,T-shirt,Fashion,1339 INR
+000099,52,M,Lucknow,733,Mamaearth Face Wash,Mamaearth,M,Mamaearth,Face Wash,Beauty & Personal Care,711 INR
+000049,27,M,Kolkata,734,Mamaearth Face Wash,Mamaearth,M,Mamaearth,Face Wash,Beauty & Personal Care,548 INR
+000006,44,F,Pune,735,Bajaj Mixer Grinder,Bajaj,F,Bajaj,Mixer Grinder,Home & Kitchen,8855 INR
+000030,52,M,Chandigarh,736,Prestige Mixer Grinder,Prestige,M,Prestige,Mixer Grinder,Home & Kitchen,7526 INR
+000087,54,F,Nagpur,737,Uniqlo T-shirt,Uniqlo,F,Uniqlo,T-shirt,Fashion,1329 INR
+000068,44,M,Mumbai,738,Mamaearth Face Wash,Mamaearth,M,Mamaearth,Face Wash,Beauty & Personal Care,356 INR
+000007,59,F,Bhopal,739,Nivia Yoga Mat,Nivia,F,Nivia,Yoga Mat,Sports & Outdoors,2413 INR
+000016,36,M,Kolkata,740,Uniqlo T-shirt,Uniqlo,M,Uniqlo,T-shirt,Fashion,1351 INR
+000019,45,M,Pune,741,Bajaj Mixer Grinder,Bajaj,M,Bajaj,Mixer Grinder,Home & Kitchen,1936 INR
+000054,21,F,Vadodara,742,Wrangler Jeans,Wrangler,F,Wrangler,Jeans,Fashion,3963 INR
+000011,41,M,Ahmedabad,743,Levi's Jeans,Levi's,M,Levi's,Jeans,Fashion,3546 INR
+000019,26,M,Chandigarh,744,Prestige Mixer Grinder,Prestige,M,Prestige,Mixer Grinder,Home & Kitchen,9185 INR
+000058,57,M,Chennai,745,Xiaomi Smartphone,Xiaomi,M,Xiaomi,Smartphone,Electronics,43266 INR
+000020,53,F,Delhi,746,Adidas T-shirt,Adidas,F,Adidas,T-shirt,Fashion,916 INR
+000016,21,M,Coimbatore,747,Cetaphil Face Wash,Cetaphil,M,Cetaphil,Face Wash,Beauty & Personal Care,164 INR
+000015,49,M,Vadodara,748,Mamaearth Face Wash,Mamaearth,M,Mamaearth,Face Wash,Beauty & Personal Care,247 INR
+000038,45,M,Thiruvananthapuram,749,Wrangler Jeans,Wrangler,M,Wrangler,Jeans,Fashion,4212 INR
+000024,60,M,Vadodara,750,Levi's Jeans,Levi's,M,Levi's,Jeans,Fashion,4956 INR
+000065,53,M,Indore,751,Philips Mixer Grinder,Philips,M,Philips,Mixer Grinder,Home & Kitchen,7838 INR
+000048,34,M,Bhopal,752,HP Laptop,HP,M,HP,Laptop,Electronics,61604 INR
+000094,60,M,Patna,753,Wrangler Jeans,Wrangler,M,Wrangler,Jeans,Fashion,1163 INR
+000046,52,F,Kolkata,754,Butterfly Mixer Grinder,Butterfly,F,Butterfly,Mixer Grinder,Home & Kitchen,4486 INR
+000018,22,F,Bangalore,755,Adidas T-shirt,Adidas,F,Adidas,T-shirt,Fashion,389 INR
+000026,20,F,Chandigarh,756,Boldfit Yoga Mat,Boldfit,F,Boldfit,Yoga Mat,Sports & Outdoors,2524 INR
+000061,34,M,Mumbai,757,H&M T-shirt,H&M,M,H&M,T-shirt,Fashion,1899 INR
+000007,59,F,Jaipur,758,HP Laptop,HP,F,HP,Laptop,Electronics,87272 INR
+000052,46,F,Lucknow,759,Noise Smartwatch,Noise,F,Noise,Smartwatch,Electronics,47355 INR
+000064,41,F,Chennai,760,Nike Sneakers,Nike,F,Nike,Sneakers,Fashion,9055 INR
+000078,29,F,Lucknow,761,Apple Laptop,Apple,F,Apple,Laptop,Electronics,72981 INR
+000085,36,F,Nagpur,762,Cetaphil Face Wash,Cetaphil,F,Cetaphil,Face Wash,Beauty & Personal Care,270 INR
+000089,46,F,Nagpur,763,Xiaomi Smartphone,Xiaomi,F,Xiaomi,Smartphone,Electronics,95589 INR
+000056,35,M,Chennai,764,Puma Sneakers,Puma,M,Puma,Sneakers,Fashion,10406 INR
+000096,28,M,Hyderabad,765,Cetaphil Face Wash,Cetaphil,M,Cetaphil,Face Wash,Beauty & Personal Care,135 INR
+000017,22,M,Bhopal,766,Spykar Jeans,Spykar,M,Spykar,Jeans,Fashion,1065 INR
+000078,27,F,Bhopal,767,Spykar Jeans,Spykar,F,Spykar,Jeans,Fashion,1429 INR
+000074,26,F,Indore,768,Lee Jeans,Lee,F,Lee,Jeans,Fashion,2844 INR
+000015,19,M,Visakhapatnam,769,Boldfit Yoga Mat,Boldfit,M,Boldfit,Yoga Mat,Sports & Outdoors,2600 INR
+000016,34,F,Nagpur,770,Sony Earbuds,Sony,F,Sony,Earbuds,Electronics,17095 INR
+000026,25,M,Chennai,771,Prestige Mixer Grinder,Prestige,M,Prestige,Mixer Grinder,Home & Kitchen,8792 INR
+000012,38,F,Chennai,772,Domyos Yoga Mat,Domyos,F,Domyos,Yoga Mat,Sports & Outdoors,1528 INR
+000021,58,M,Bhopal,773,Decathlon Yoga Mat,Decathlon,M,Decathlon,Yoga Mat,Sports & Outdoors,797 INR
+000026,26,M,Visakhapatnam,774,Xiaomi Smartphone,Xiaomi,M,Xiaomi,Smartphone,Electronics,87616 INR
+000074,41,F,Surat,775,Apple Smartwatch,Apple,F,Apple,Smartwatch,Electronics,6308 INR
+000040,43,F,Vadodara,776,Reebok Sneakers,Reebok,F,Reebok,Sneakers,Fashion,11419 INR
+000010,26,F,Chennai,777,Butterfly Mixer Grinder,Butterfly,F,Butterfly,Mixer Grinder,Home & Kitchen,9976 INR
+000045,26,M,Hyderabad,778,Nike Sneakers,Nike,M,Nike,Sneakers,Fashion,4034 INR
+000067,27,F,Kolkata,779,Fitbit Smartwatch,Fitbit,F,Fitbit,Smartwatch,Electronics,48486 INR
+000029,40,F,Chennai,780,Adidas T-shirt,Adidas,F,Adidas,T-shirt,Fashion,1600 INR
+000071,35,M,Chandigarh,781,Himalaya Face Wash,Himalaya,M,Himalaya,Face Wash,Beauty & Personal Care,614 INR
+000083,28,M,Kolkata,782,Ponds Face Wash,Ponds,M,Ponds,Face Wash,Beauty & Personal Care,677 INR
+000006,19,M,Bangalore,783,Ponds Face Wash,Ponds,M,Ponds,Face Wash,Beauty & Personal Care,766 INR
+000027,54,F,Thiruvananthapuram,784,OnePlus Smartphone,OnePlus,F,OnePlus,Smartphone,Electronics,97203 INR
+000070,36,F,Visakhapatnam,785,Apple Earbuds,Apple,F,Apple,Earbuds,Electronics,10746 INR
+000059,22,M,Kolkata,786,Butterfly Mixer Grinder,Butterfly,M,Butterfly,Mixer Grinder,Home & Kitchen,9433 INR
+000060,31,F,Thiruvananthapuram,787,Fitbit Smartwatch,Fitbit,F,Fitbit,Smartwatch,Electronics,49078 INR
+000041,40,F,Hyderabad,788,Levi's Jeans,Levi's,F,Levi's,Jeans,Fashion,3414 INR
+000031,47,M,Jaipur,789,Prestige Mixer Grinder,Prestige,M,Prestige,Mixer Grinder,Home & Kitchen,3808 INR
+000013,21,F,Indore,790,Cetaphil Face Wash,Cetaphil,F,Cetaphil,Face Wash,Beauty & Personal Care,354 INR
+000021,38,F,Mumbai,791,Noise Smartwatch,Noise,F,Noise,Smartwatch,Electronics,35733 INR
+000060,49,F,Visakhapatnam,792,Apple Smartphone,Apple,F,Apple,Smartphone,Electronics,66543 INR
+000065,47,M,Mumbai,793,Ponds Face Wash,Ponds,M,Ponds,Face Wash,Beauty & Personal Care,149 INR
+000007,36,F,Thiruvananthapuram,794,Bajaj Mixer Grinder,Bajaj,F,Bajaj,Mixer Grinder,Home & Kitchen,1633 INR
+000014,45,M,Jaipur,795,Spykar Jeans,Spykar,M,Spykar,Jeans,Fashion,3797 INR
+000006,43,M,Patna,796,Decathlon Yoga Mat,Decathlon,M,Decathlon,Yoga Mat,Sports & Outdoors,1784 INR
+000071,36,M,Indore,797,Boldfit Yoga Mat,Boldfit,M,Boldfit,Yoga Mat,Sports & Outdoors,2552 INR
+000036,57,M,Hyderabad,798,Lenovo Laptop,Lenovo,M,Lenovo,Laptop,Electronics,78915 INR
+000044,53,F,Hyderabad,799,Apple Earbuds,Apple,F,Apple,Earbuds,Electronics,17386 INR
+000006,20,M,Hyderabad,800,Spykar Jeans,Spykar,M,Spykar,Jeans,Fashion,4543 INR
+000020,56,M,Lucknow,801,Ponds Face Wash,Ponds,M,Ponds,Face Wash,Beauty & Personal Care,266 INR
+000051,57,F,Patna,802,Spykar Jeans,Spykar,F,Spykar,Jeans,Fashion,3255 INR
+000061,19,F,Lucknow,803,Lenovo Laptop,Lenovo,F,Lenovo,Laptop,Electronics,106507 INR
+000040,58,M,Thiruvananthapuram,804,Bajaj Mixer Grinder,Bajaj,M,Bajaj,Mixer Grinder,Home & Kitchen,5228 INR
+000093,21,F,Kolkata,805,Boldfit Yoga Mat,Boldfit,F,Boldfit,Yoga Mat,Sports & Outdoors,905 INR
+000088,33,M,Patna,806,Dell Laptop,Dell,M,Dell,Laptop,Electronics,32482 INR
+000057,38,F,Hyderabad,807,Adidas Sneakers,Adidas,F,Adidas,Sneakers,Fashion,8723 INR
+000065,57,F,Bangalore,808,Samsung Smartwatch,Samsung,F,Samsung,Smartwatch,Electronics,38758 INR
+000042,60,F,Vadodara,809,Puma Sneakers,Puma,F,Puma,Sneakers,Fashion,4837 INR
+000059,52,F,Surat,810,Lee Jeans,Lee,F,Lee,Jeans,Fashion,4766 INR
+000025,33,F,Surat,811,Adidas T-shirt,Adidas,F,Adidas,T-shirt,Fashion,909 INR
+000099,36,M,Visakhapatnam,812,Spykar Jeans,Spykar,M,Spykar,Jeans,Fashion,3657 INR
+000072,35,F,Delhi,813,Cetaphil Face Wash,Cetaphil,F,Cetaphil,Face Wash,Beauty & Personal Care,504 INR
+000045,27,F,Bangalore,814,Nike T-shirt,Nike,F,Nike,T-shirt,Fashion,1009 INR
+000057,59,F,Visakhapatnam,815,JBL Earbuds,JBL,F,JBL,Earbuds,Electronics,18648 INR
+000035,53,F,Hyderabad,816,Asus Laptop,Asus,F,Asus,Laptop,Electronics,127110 INR
+000076,33,M,Bangalore,817,Decathlon Yoga Mat,Decathlon,M,Decathlon,Yoga Mat,Sports & Outdoors,2913 INR
+000030,21,M,Coimbatore,818,Spykar Jeans,Spykar,M,Spykar,Jeans,Fashion,1623 INR
+000088,26,M,Surat,819,Noise Smartwatch,Noise,M,Noise,Smartwatch,Electronics,44787 INR
+000061,48,M,Chandigarh,820,Lee Jeans,Lee,M,Lee,Jeans,Fashion,1284 INR
+000099,23,M,Surat,821,Samsung Smartphone,Samsung,M,Samsung,Smartphone,Electronics,69773 INR
+000023,20,F,Visakhapatnam,822,Fitbit Smartwatch,Fitbit,F,Fitbit,Smartwatch,Electronics,4455 INR
+000002,37,M,Lucknow,823,Uniqlo T-shirt,Uniqlo,M,Uniqlo,T-shirt,Fashion,1613 INR
+000070,51,F,Hyderabad,824,Boldfit Yoga Mat,Boldfit,F,Boldfit,Yoga Mat,Sports & Outdoors,1417 INR
+000025,25,F,Kolkata,825,Bajaj Mixer Grinder,Bajaj,F,Bajaj,Mixer Grinder,Home & Kitchen,4550 INR
+000002,39,F,Patna,826,JBL Earbuds,JBL,F,JBL,Earbuds,Electronics,14287 INR
+000055,50,F,Chennai,827,Nike Sneakers,Nike,F,Nike,Sneakers,Fashion,5027 INR
+000018,48,F,Pune,828,Xiaomi Smartphone,Xiaomi,F,Xiaomi,Smartphone,Electronics,65275 INR
+000031,46,F,Lucknow,829,Puma T-shirt,Puma,F,Puma,T-shirt,Fashion,1780 INR
+000074,18,F,Bhopal,830,boAt Earbuds,boAt,F,boAt,Earbuds,Electronics,4873 INR
+000060,37,M,Indore,831,Domyos Yoga Mat,Domyos,M,Domyos,Yoga Mat,Sports & Outdoors,780 INR
+000082,36,F,Thiruvananthapuram,832,JBL Earbuds,JBL,F,JBL,Earbuds,Electronics,5376 INR
+000062,27,F,Thiruvananthapuram,833,Spykar Jeans,Spykar,F,Spykar,Jeans,Fashion,4657 INR
+000097,52,M,Pune,834,Himalaya Face Wash,Himalaya,M,Himalaya,Face Wash,Beauty & Personal Care,638 INR
+000058,51,F,Chennai,835,Himalaya Face Wash,Himalaya,F,Himalaya,Face Wash,Beauty & Personal Care,163 INR
+000071,50,M,Patna,836,Decathlon Yoga Mat,Decathlon,M,Decathlon,Yoga Mat,Sports & Outdoors,973 INR
+000042,51,F,Delhi,837,Apple Earbuds,Apple,F,Apple,Earbuds,Electronics,3979 INR
+000066,46,M,Nagpur,838,Noise Smartwatch,Noise,M,Noise,Smartwatch,Electronics,31936 INR
+000073,21,F,Chandigarh,839,OnePlus Smartphone,OnePlus,F,OnePlus,Smartphone,Electronics,48352 INR
+000001,31,M,Bangalore,840,Puma Sneakers,Puma,M,Puma,Sneakers,Fashion,3044 INR
+000070,21,M,Visakhapatnam,841,Xiaomi Smartphone,Xiaomi,M,Xiaomi,Smartphone,Electronics,68591 INR
+000024,26,F,Bhopal,842,Reebok Sneakers,Reebok,F,Reebok,Sneakers,Fashion,8184 INR
+000049,23,M,Bhopal,843,Dell Laptop,Dell,M,Dell,Laptop,Electronics,100419 INR
+000051,51,M,Pune,844,Apple Smartphone,Apple,M,Apple,Smartphone,Electronics,54107 INR
+000060,52,F,Surat,845,Adidas Sneakers,Adidas,F,Adidas,Sneakers,Fashion,6055 INR
+000059,40,M,Jaipur,846,boAt Earbuds,boAt,M,boAt,Earbuds,Electronics,2055 INR
+000085,44,M,Pune,847,boAt Earbuds,boAt,M,boAt,Earbuds,Electronics,4306 INR
+000077,20,F,Thiruvananthapuram,848,Samsung Smartphone,Samsung,F,Samsung,Smartphone,Electronics,20798 INR
+000052,46,M,Surat,849,boAt Earbuds,boAt,M,boAt,Earbuds,Electronics,5591 INR
+000065,36,M,Patna,850,Lee Jeans,Lee,M,Lee,Jeans,Fashion,2740 INR
+000039,27,M,Coimbatore,851,H&M T-shirt,H&M,M,H&M,T-shirt,Fashion,424 INR
+000072,55,M,Coimbatore,852,Boldfit Yoga Mat,Boldfit,M,Boldfit,Yoga Mat,Sports & Outdoors,492 INR
+000045,59,F,Vadodara,853,Spykar Jeans,Spykar,F,Spykar,Jeans,Fashion,4144 INR
+000020,37,F,Kolkata,854,Boldfit Yoga Mat,Boldfit,F,Boldfit,Yoga Mat,Sports & Outdoors,1287 INR
+000029,37,M,Nagpur,855,Realme Smartphone,Realme,M,Realme,Smartphone,Electronics,69090 INR
+000054,53,M,Indore,856,Sony Earbuds,Sony,M,Sony,Earbuds,Electronics,7662 INR
+000043,59,M,Nagpur,857,Levi's Jeans,Levi's,M,Levi's,Jeans,Fashion,2360 INR
+000007,35,F,Thiruvananthapuram,858,Himalaya Face Wash,Himalaya,F,Himalaya,Face Wash,Beauty & Personal Care,174 INR
+000025,55,M,Visakhapatnam,859,Sony Earbuds,Sony,M,Sony,Earbuds,Electronics,10934 INR
+000002,31,M,Delhi,860,Prestige Mixer Grinder,Prestige,M,Prestige,Mixer Grinder,Home & Kitchen,4850 INR
+000051,33,F,Chandigarh,861,Reebok Sneakers,Reebok,F,Reebok,Sneakers,Fashion,10743 INR
+000084,40,F,Jaipur,862,Spykar Jeans,Spykar,F,Spykar,Jeans,Fashion,4617 INR
+000013,48,F,Mumbai,863,Lee Jeans,Lee,F,Lee,Jeans,Fashion,4190 INR
+000006,54,M,Hyderabad,864,Xiaomi Smartphone,Xiaomi,M,Xiaomi,Smartphone,Electronics,87523 INR
+000075,55,F,Chandigarh,865,Samsung Smartwatch,Samsung,F,Samsung,Smartwatch,Electronics,23618 INR
+000030,42,M,Visakhapatnam,866,Domyos Yoga Mat,Domyos,M,Domyos,Yoga Mat,Sports & Outdoors,1354 INR
+000098,49,F,Nagpur,867,Fitbit Smartwatch,Fitbit,F,Fitbit,Smartwatch,Electronics,13092 INR
+000018,52,F,Kolkata,868,Nivia Yoga Mat,Nivia,F,Nivia,Yoga Mat,Sports & Outdoors,2446 INR
+000005,22,M,Ahmedabad,869,Adidas Sneakers,Adidas,M,Adidas,Sneakers,Fashion,5791 INR
+000009,27,M,Mumbai,870,Boldfit Yoga Mat,Boldfit,M,Boldfit,Yoga Mat,Sports & Outdoors,1828 INR
+000008,57,F,Visakhapatnam,871,Apple Smartphone,Apple,F,Apple,Smartphone,Electronics,84758 INR
+000071,44,M,Ahmedabad,872,Domyos Yoga Mat,Domyos,M,Domyos,Yoga Mat,Sports & Outdoors,2494 INR
+000037,19,F,Kolkata,873,Apple Laptop,Apple,F,Apple,Laptop,Electronics,98732 INR
+000020,33,M,Thiruvananthapuram,874,Domyos Yoga Mat,Domyos,M,Domyos,Yoga Mat,Sports & Outdoors,1751 INR
+000035,43,M,Bhopal,875,Reebok Sneakers,Reebok,M,Reebok,Sneakers,Fashion,11256 INR
+000032,32,F,Chennai,876,Apple Smartphone,Apple,F,Apple,Smartphone,Electronics,68120 INR
+000049,42,F,Bangalore,877,Samsung Smartphone,Samsung,F,Samsung,Smartphone,Electronics,25837 INR
+000064,45,F,Patna,878,Asus Laptop,Asus,F,Asus,Laptop,Electronics,35577 INR
+000030,31,F,Jaipur,879,Apple Smartphone,Apple,F,Apple,Smartphone,Electronics,51749 INR
+000070,54,M,Kolkata,880,Levi's Jeans,Levi's,M,Levi's,Jeans,Fashion,2497 INR
+000076,27,F,Chennai,881,Adidas T-shirt,Adidas,F,Adidas,T-shirt,Fashion,1454 INR
+000031,54,F,Surat,882,Spykar Jeans,Spykar,F,Spykar,Jeans,Fashion,1946 INR
+000089,23,F,Bangalore,883,Lenovo Laptop,Lenovo,F,Lenovo,Laptop,Electronics,60427 INR
+000010,39,F,Lucknow,884,Xiaomi Smartphone,Xiaomi,F,Xiaomi,Smartphone,Electronics,74054 INR
+000063,32,F,Surat,885,Reebok Sneakers,Reebok,F,Reebok,Sneakers,Fashion,5043 INR
+000088,55,F,Chennai,886,Ponds Face Wash,Ponds,F,Ponds,Face Wash,Beauty & Personal Care,352 INR
+000092,22,M,Jaipur,887,Noise Smartwatch,Noise,M,Noise,Smartwatch,Electronics,48640 INR
+000082,27,F,Lucknow,888,Levi's Jeans,Levi's,F,Levi's,Jeans,Fashion,1549 INR
+000001,37,F,Bhopal,889,Nike T-shirt,Nike,F,Nike,T-shirt,Fashion,571 INR
+000012,29,F,Nagpur,890,Boldfit Yoga Mat,Boldfit,F,Boldfit,Yoga Mat,Sports & Outdoors,723 INR
+000004,23,F,Surat,891,Asus Laptop,Asus,F,Asus,Laptop,Electronics,108386 INR
+000042,42,M,Chandigarh,892,Reebok Sneakers,Reebok,M,Reebok,Sneakers,Fashion,3387 INR
+000093,53,M,Patna,893,Decathlon Yoga Mat,Decathlon,M,Decathlon,Yoga Mat,Sports & Outdoors,1859 INR
+000022,26,F,Chandigarh,894,Uniqlo T-shirt,Uniqlo,F,Uniqlo,T-shirt,Fashion,598 INR
+000009,28,F,Jaipur,895,Puma Sneakers,Puma,F,Puma,Sneakers,Fashion,9933 INR
+000010,41,F,Pune,896,Prestige Mixer Grinder,Prestige,F,Prestige,Mixer Grinder,Home & Kitchen,9001 INR
+000014,26,F,Ahmedabad,897,Puma Sneakers,Puma,F,Puma,Sneakers,Fashion,8224 INR
+000043,46,F,Coimbatore,898,Mamaearth Face Wash,Mamaearth,F,Mamaearth,Face Wash,Beauty & Personal Care,407 INR
+000042,56,M,Visakhapatnam,899,Wrangler Jeans,Wrangler,M,Wrangler,Jeans,Fashion,4062 INR
+000041,36,F,Patna,900,Sony Earbuds,Sony,F,Sony,Earbuds,Electronics,13322 INR
+000036,43,F,Delhi,901,Mamaearth Face Wash,Mamaearth,F,Mamaearth,Face Wash,Beauty & Personal Care,706 INR
+000070,29,M,Nagpur,902,Apple Earbuds,Apple,M,Apple,Earbuds,Electronics,10546 INR
+000089,22,F,Visakhapatnam,903,Fitbit Smartwatch,Fitbit,F,Fitbit,Smartwatch,Electronics,17861 INR
+000033,60,M,Coimbatore,904,Nike Sneakers,Nike,M,Nike,Sneakers,Fashion,9357 INR
+000077,48,F,Surat,905,Boldfit Yoga Mat,Boldfit,F,Boldfit,Yoga Mat,Sports & Outdoors,2526 INR
+000005,41,M,Delhi,906,Sony Earbuds,Sony,M,Sony,Earbuds,Electronics,6450 INR
+000083,57,M,Patna,907,Puma Sneakers,Puma,M,Puma,Sneakers,Fashion,9052 INR
+000014,18,M,Jaipur,908,JBL Earbuds,JBL,M,JBL,Earbuds,Electronics,15607 INR
+000048,43,F,Patna,909,Decathlon Yoga Mat,Decathlon,F,Decathlon,Yoga Mat,Sports & Outdoors,1712 INR
+000004,48,M,Chandigarh,910,Nike Sneakers,Nike,M,Nike,Sneakers,Fashion,3901 INR
+000094,27,F,Chandigarh,911,Spykar Jeans,Spykar,F,Spykar,Jeans,Fashion,2494 INR
+000067,48,F,Visakhapatnam,912,Lenovo Laptop,Lenovo,F,Lenovo,Laptop,Electronics,124633 INR
+000090,46,F,Chennai,913,Nike T-shirt,Nike,F,Nike,T-shirt,Fashion,1959 INR
+000091,25,M,Lucknow,914,Dell Laptop,Dell,M,Dell,Laptop,Electronics,127057 INR
+000032,51,M,Surat,915,Fitbit Smartwatch,Fitbit,M,Fitbit,Smartwatch,Electronics,38690 INR
+000055,47,M,Indore,916,Samsung Smartwatch,Samsung,M,Samsung,Smartwatch,Electronics,43974 INR
+000085,45,F,Ahmedabad,917,Mamaearth Face Wash,Mamaearth,F,Mamaearth,Face Wash,Beauty & Personal Care,560 INR
+000076,45,F,Ahmedabad,918,JBL Earbuds,JBL,F,JBL,Earbuds,Electronics,10120 INR
+000097,22,M,Surat,919,Fitbit Smartwatch,Fitbit,M,Fitbit,Smartwatch,Electronics,23363 INR
+000026,47,M,Jaipur,920,Bajaj Mixer Grinder,Bajaj,M,Bajaj,Mixer Grinder,Home & Kitchen,7867 INR
+000079,43,M,Bhopal,921,Spykar Jeans,Spykar,M,Spykar,Jeans,Fashion,2213 INR
+000087,37,M,Hyderabad,922,Levi's Jeans,Levi's,M,Levi's,Jeans,Fashion,2754 INR
+000040,25,M,Bhopal,923,Noise Smartwatch,Noise,M,Noise,Smartwatch,Electronics,29409 INR
+000077,26,F,Coimbatore,924,Noise Smartwatch,Noise,F,Noise,Smartwatch,Electronics,43648 INR
+000069,59,M,Surat,925,Noise Smartwatch,Noise,M,Noise,Smartwatch,Electronics,20929 INR
+000018,29,F,Nagpur,926,Himalaya Face Wash,Himalaya,F,Himalaya,Face Wash,Beauty & Personal Care,467 INR
+000002,49,M,Mumbai,927,Reebok Sneakers,Reebok,M,Reebok,Sneakers,Fashion,8703 INR
+000088,49,F,Nagpur,928,Prestige Mixer Grinder,Prestige,F,Prestige,Mixer Grinder,Home & Kitchen,2854 INR
+000073,19,M,Chandigarh,929,Xiaomi Smartphone,Xiaomi,M,Xiaomi,Smartphone,Electronics,44470 INR
+000069,36,M,Nagpur,930,Cetaphil Face Wash,Cetaphil,M,Cetaphil,Face Wash,Beauty & Personal Care,662 INR
+000066,25,M,Jaipur,931,Domyos Yoga Mat,Domyos,M,Domyos,Yoga Mat,Sports & Outdoors,2520 INR
+000097,20,F,Surat,932,Apple Earbuds,Apple,F,Apple,Earbuds,Electronics,4355 INR
+000095,59,M,Chandigarh,933,OnePlus Smartphone,OnePlus,M,OnePlus,Smartphone,Electronics,49447 INR
+000045,23,F,Delhi,934,JBL Earbuds,JBL,F,JBL,Earbuds,Electronics,12489 INR
+000091,57,F,Kolkata,935,Mamaearth Face Wash,Mamaearth,F,Mamaearth,Face Wash,Beauty & Personal Care,311 INR
+000027,21,F,Surat,936,Puma T-shirt,Puma,F,Puma,T-shirt,Fashion,1403 INR
+000022,38,F,Chandigarh,937,Ponds Face Wash,Ponds,F,Ponds,Face Wash,Beauty & Personal Care,626 INR
+000087,24,M,Coimbatore,938,Xiaomi Smartphone,Xiaomi,M,Xiaomi,Smartphone,Electronics,31631 INR
+000090,26,M,Hyderabad,939,Wrangler Jeans,Wrangler,M,Wrangler,Jeans,Fashion,4017 INR
+000063,27,F,Coimbatore,940,Reebok Sneakers,Reebok,F,Reebok,Sneakers,Fashion,3237 INR
+000082,23,F,Vadodara,941,H&M T-shirt,H&M,F,H&M,T-shirt,Fashion,1231 INR
+000063,38,M,Chennai,942,Bajaj Mixer Grinder,Bajaj,M,Bajaj,Mixer Grinder,Home & Kitchen,2537 INR
+000069,43,M,Coimbatore,943,Apple Earbuds,Apple,M,Apple,Earbuds,Electronics,9799 INR
+000042,36,F,Surat,944,Mamaearth Face Wash,Mamaearth,F,Mamaearth,Face Wash,Beauty & Personal Care,679 INR
+000063,39,M,Bangalore,945,Lenovo Laptop,Lenovo,M,Lenovo,Laptop,Electronics,32134 INR
+000016,28,F,Nagpur,946,OnePlus Smartphone,OnePlus,F,OnePlus,Smartphone,Electronics,41518 INR
+000089,26,F,Kolkata,947,Nike T-shirt,Nike,F,Nike,T-shirt,Fashion,1640 INR
+000047,34,M,Bhopal,948,Apple Smartwatch,Apple,M,Apple,Smartwatch,Electronics,27974 INR
+000081,37,M,Coimbatore,949,Apple Laptop,Apple,M,Apple,Laptop,Electronics,30142 INR
+000028,48,M,Hyderabad,950,Mamaearth Face Wash,Mamaearth,M,Mamaearth,Face Wash,Beauty & Personal Care,631 INR
+000088,46,M,Ahmedabad,951,Levi's Jeans,Levi's,M,Levi's,Jeans,Fashion,4259 INR
+000089,26,F,Chennai,952,Apple Earbuds,Apple,F,Apple,Earbuds,Electronics,3927 INR
+000094,24,M,Lucknow,953,Lee Jeans,Lee,M,Lee,Jeans,Fashion,1923 INR
+000049,26,M,Chennai,954,Nivia Yoga Mat,Nivia,M,Nivia,Yoga Mat,Sports & Outdoors,2799 INR
+000084,28,F,Bhopal,955,JBL Earbuds,JBL,F,JBL,Earbuds,Electronics,14490 INR
+000079,46,M,Chennai,956,Dell Laptop,Dell,M,Dell,Laptop,Electronics,128624 INR
+000016,55,F,Bhopal,957,Puma Sneakers,Puma,F,Puma,Sneakers,Fashion,4290 INR
+000032,35,M,Pune,958,Domyos Yoga Mat,Domyos,M,Domyos,Yoga Mat,Sports & Outdoors,409 INR
+000085,37,M,Vadodara,959,Mamaearth Face Wash,Mamaearth,M,Mamaearth,Face Wash,Beauty & Personal Care,501 INR
+000038,59,M,Pune,960,Butterfly Mixer Grinder,Butterfly,M,Butterfly,Mixer Grinder,Home & Kitchen,3347 INR
+000031,49,M,Vadodara,961,Xiaomi Smartphone,Xiaomi,M,Xiaomi,Smartphone,Electronics,56480 INR
+000017,42,F,Bhopal,962,Decathlon Yoga Mat,Decathlon,F,Decathlon,Yoga Mat,Sports & Outdoors,2229 INR
+000099,22,M,Patna,963,Apple Laptop,Apple,M,Apple,Laptop,Electronics,64365 INR
+000028,20,M,Indore,964,Domyos Yoga Mat,Domyos,M,Domyos,Yoga Mat,Sports & Outdoors,2874 INR
+000092,50,F,Coimbatore,965,Nike Sneakers,Nike,F,Nike,Sneakers,Fashion,10791 INR
+000069,57,M,Jaipur,966,HP Laptop,HP,M,HP,Laptop,Electronics,40357 INR
+000066,31,M,Surat,967,Spykar Jeans,Spykar,M,Spykar,Jeans,Fashion,1341 INR
+000040,45,M,Bangalore,968,boAt Earbuds,boAt,M,boAt,Earbuds,Electronics,15237 INR
+000015,47,M,Chandigarh,969,Apple Smartwatch,Apple,M,Apple,Smartwatch,Electronics,2830 INR
+000091,26,M,Kolkata,970,Bajaj Mixer Grinder,Bajaj,M,Bajaj,Mixer Grinder,Home & Kitchen,9974 INR
+000093,34,M,Bhopal,971,Fitbit Smartwatch,Fitbit,M,Fitbit,Smartwatch,Electronics,9736 INR
+000099,19,F,Coimbatore,972,Puma T-shirt,Puma,F,Puma,T-shirt,Fashion,430 INR
+000034,54,M,Visakhapatnam,973,Bajaj Mixer Grinder,Bajaj,M,Bajaj,Mixer Grinder,Home & Kitchen,2408 INR
+000064,54,M,Bhopal,974,Fitbit Smartwatch,Fitbit,M,Fitbit,Smartwatch,Electronics,8743 INR
+000074,25,M,Vadodara,975,Apple Smartphone,Apple,M,Apple,Smartphone,Electronics,16610 INR
+000032,20,F,Bhopal,976,Adidas Sneakers,Adidas,F,Adidas,Sneakers,Fashion,4932 INR
+000005,53,F,Pune,977,Wrangler Jeans,Wrangler,F,Wrangler,Jeans,Fashion,4209 INR
+000093,38,F,Chennai,978,Ponds Face Wash,Ponds,F,Ponds,Face Wash,Beauty & Personal Care,222 INR
+000065,21,M,Pune,979,Nivia Yoga Mat,Nivia,M,Nivia,Yoga Mat,Sports & Outdoors,1942 INR
+000009,47,F,Chandigarh,980,Levi's Jeans,Levi's,F,Levi's,Jeans,Fashion,4541 INR
+000002,41,M,Chandigarh,981,Ponds Face Wash,Ponds,M,Ponds,Face Wash,Beauty & Personal Care,737 INR
+000032,47,F,Patna,982,Prestige Mixer Grinder,Prestige,F,Prestige,Mixer Grinder,Home & Kitchen,5516 INR
+000020,18,F,Ahmedabad,983,Sony Earbuds,Sony,F,Sony,Earbuds,Electronics,1314 INR
+000043,18,F,Chandigarh,984,Dell Laptop,Dell,F,Dell,Laptop,Electronics,99443 INR
+000031,44,F,Bangalore,985,Fitbit Smartwatch,Fitbit,F,Fitbit,Smartwatch,Electronics,8096 INR
+000006,32,F,Bhopal,986,Philips Mixer Grinder,Philips,F,Philips,Mixer Grinder,Home & Kitchen,3065 INR
+000065,26,F,Chennai,987,Himalaya Face Wash,Himalaya,F,Himalaya,Face Wash,Beauty & Personal Care,545 INR
+000085,26,M,Chandigarh,988,H&M T-shirt,H&M,M,H&M,T-shirt,Fashion,1940 INR
+000051,38,F,Nagpur,989,Adidas T-shirt,Adidas,F,Adidas,T-shirt,Fashion,452 INR
+000026,26,M,Hyderabad,990,Dell Laptop,Dell,M,Dell,Laptop,Electronics,88925 INR
+000060,38,F,Delhi,991,Domyos Yoga Mat,Domyos,F,Domyos,Yoga Mat,Sports & Outdoors,1150 INR
+000058,37,F,Jaipur,992,Apple Laptop,Apple,F,Apple,Laptop,Electronics,50658 INR
+000088,37,M,Mumbai,993,Wrangler Jeans,Wrangler,M,Wrangler,Jeans,Fashion,1547 INR
+000092,33,F,Indore,994,Nivia Yoga Mat,Nivia,F,Nivia,Yoga Mat,Sports & Outdoors,1524 INR
+000034,29,M,Indore,995,Prestige Mixer Grinder,Prestige,M,Prestige,Mixer Grinder,Home & Kitchen,3051 INR
+000060,24,M,Delhi,996,Apple Smartphone,Apple,M,Apple,Smartphone,Electronics,44135 INR
+000017,30,F,Bhopal,997,Asus Laptop,Asus,F,Asus,Laptop,Electronics,106823 INR
+000034,22,M,Chennai,998,Apple Earbuds,Apple,M,Apple,Earbuds,Electronics,5220 INR
+000012,39,M,Bangalore,999,Philips Mixer Grinder,Philips,M,Philips,Mixer Grinder,Home & Kitchen,4252 INR
+000074,45,F,Visakhapatnam,1000,OnePlus Smartphone,OnePlus,F,OnePlus,Smartphone,Electronics,70923 INR
+000023,40,M,Kolkata,1001,H&M T-shirt,H&M,M,H&M,T-shirt,Fashion,1213 INR
+000020,20,M,Chandigarh,1002,Butterfly Mixer Grinder,Butterfly,M,Butterfly,Mixer Grinder,Home & Kitchen,9348 INR
+000008,23,F,Indore,1003,Noise Smartwatch,Noise,F,Noise,Smartwatch,Electronics,15071 INR
+000083,51,M,Surat,1004,OnePlus Smartphone,OnePlus,M,OnePlus,Smartphone,Electronics,62069 INR
+000062,52,F,Bhopal,1005,Ponds Face Wash,Ponds,F,Ponds,Face Wash,Beauty & Personal Care,497 INR
+000035,29,M,Lucknow,1006,Mamaearth Face Wash,Mamaearth,M,Mamaearth,Face Wash,Beauty & Personal Care,130 INR
+000100,35,M,Visakhapatnam,1007,Domyos Yoga Mat,Domyos,M,Domyos,Yoga Mat,Sports & Outdoors,2692 INR
+000030,28,M,Pune,1008,Sony Earbuds,Sony,M,Sony,Earbuds,Electronics,18487 INR
+000095,21,M,Patna,1009,Puma Sneakers,Puma,M,Puma,Sneakers,Fashion,4846 INR
+000023,33,F,Bhopal,1010,Himalaya Face Wash,Himalaya,F,Himalaya,Face Wash,Beauty & Personal Care,460 INR
+000073,54,M,Patna,1011,Apple Earbuds,Apple,M,Apple,Earbuds,Electronics,18764 INR
+000040,29,F,Bangalore,1012,Apple Laptop,Apple,F,Apple,Laptop,Electronics,60490 INR
+000078,32,M,Vadodara,1013,Philips Mixer Grinder,Philips,M,Philips,Mixer Grinder,Home & Kitchen,6935 INR
+000079,30,M,Lucknow,1014,Fitbit Smartwatch,Fitbit,M,Fitbit,Smartwatch,Electronics,5903 INR
+000003,27,M,Delhi,1015,Domyos Yoga Mat,Domyos,M,Domyos,Yoga Mat,Sports & Outdoors,597 INR
+000048,60,F,Patna,1016,HP Laptop,HP,F,HP,Laptop,Electronics,69552 INR
+000042,26,M,Coimbatore,1017,Bajaj Mixer Grinder,Bajaj,M,Bajaj,Mixer Grinder,Home & Kitchen,4354 INR
+000091,53,F,Pune,1018,Mamaearth Face Wash,Mamaearth,F,Mamaearth,Face Wash,Beauty & Personal Care,487 INR
+000040,36,M,Kolkata,1019,Realme Smartphone,Realme,M,Realme,Smartphone,Electronics,66327 INR
+000099,54,M,Kolkata,1020,Ponds Face Wash,Ponds,M,Ponds,Face Wash,Beauty & Personal Care,726 INR
+000029,58,M,Visakhapatnam,1021,Fitbit Smartwatch,Fitbit,M,Fitbit,Smartwatch,Electronics,7099 INR
+000031,40,F,Kolkata,1022,HP Laptop,HP,F,HP,Laptop,Electronics,88540 INR
+000002,34,M,Pune,1023,HP Laptop,HP,M,HP,Laptop,Electronics,63640 INR
+000014,18,M,Indore,1024,Butterfly Mixer Grinder,Butterfly,M,Butterfly,Mixer Grinder,Home & Kitchen,4225 INR
+000053,49,F,Bhopal,1025,Boldfit Yoga Mat,Boldfit,F,Boldfit,Yoga Mat,Sports & Outdoors,715 INR
+000062,54,M,Kolkata,1026,Philips Mixer Grinder,Philips,M,Philips,Mixer Grinder,Home & Kitchen,2047 INR
+000038,19,F,Jaipur,1027,Apple Laptop,Apple,F,Apple,Laptop,Electronics,74801 INR
+000022,42,M,Chennai,1028,Nivia Yoga Mat,Nivia,M,Nivia,Yoga Mat,Sports & Outdoors,1684 INR
+000077,57,F,Ahmedabad,1029,Adidas Sneakers,Adidas,F,Adidas,Sneakers,Fashion,11950 INR
+000056,28,M,Delhi,1030,Wrangler Jeans,Wrangler,M,Wrangler,Jeans,Fashion,2356 INR
+000053,53,F,Chandigarh,1031,Adidas T-shirt,Adidas,F,Adidas,T-shirt,Fashion,496 INR
+000007,43,F,Hyderabad,1032,Xiaomi Smartphone,Xiaomi,F,Xiaomi,Smartphone,Electronics,15500 INR
+000055,23,F,Thiruvananthapuram,1033,Prestige Mixer Grinder,Prestige,F,Prestige,Mixer Grinder,Home & Kitchen,3089 INR
+000004,31,M,Chandigarh,1034,Lenovo Laptop,Lenovo,M,Lenovo,Laptop,Electronics,140594 INR
+000015,37,F,Visakhapatnam,1035,Bajaj Mixer Grinder,Bajaj,F,Bajaj,Mixer Grinder,Home & Kitchen,2993 INR
+000083,52,F,Kolkata,1036,Spykar Jeans,Spykar,F,Spykar,Jeans,Fashion,3826 INR
+000024,46,M,Jaipur,1037,Butterfly Mixer Grinder,Butterfly,M,Butterfly,Mixer Grinder,Home & Kitchen,5815 INR
+000029,35,M,Hyderabad,1038,Apple Laptop,Apple,M,Apple,Laptop,Electronics,117574 INR
+000045,52,F,Patna,1039,boAt Earbuds,boAt,F,boAt,Earbuds,Electronics,13684 INR
+000067,44,F,Patna,1040,Apple Earbuds,Apple,F,Apple,Earbuds,Electronics,10792 INR
+000011,43,M,Vadodara,1041,Mamaearth Face Wash,Mamaearth,M,Mamaearth,Face Wash,Beauty & Personal Care,223 INR
+000097,46,M,Kolkata,1042,JBL Earbuds,JBL,M,JBL,Earbuds,Electronics,5134 INR
+000006,45,M,Coimbatore,1043,JBL Earbuds,JBL,M,JBL,Earbuds,Electronics,9450 INR
+000041,22,M,Indore,1044,Boldfit Yoga Mat,Boldfit,M,Boldfit,Yoga Mat,Sports & Outdoors,2561 INR
+000042,35,F,Ahmedabad,1045,Cetaphil Face Wash,Cetaphil,F,Cetaphil,Face Wash,Beauty & Personal Care,215 INR
+000054,27,M,Patna,1046,Himalaya Face Wash,Himalaya,M,Himalaya,Face Wash,Beauty & Personal Care,208 INR
+000073,24,F,Surat,1047,Spykar Jeans,Spykar,F,Spykar,Jeans,Fashion,2963 INR
+000050,59,F,Patna,1048,Cetaphil Face Wash,Cetaphil,F,Cetaphil,Face Wash,Beauty & Personal Care,138 INR
+000023,35,F,Hyderabad,1049,Cetaphil Face Wash,Cetaphil,F,Cetaphil,Face Wash,Beauty & Personal Care,139 INR
+000051,39,M,Bangalore,1050,Bajaj Mixer Grinder,Bajaj,M,Bajaj,Mixer Grinder,Home & Kitchen,7602 INR
+000003,39,F,Chandigarh,1051,Uniqlo T-shirt,Uniqlo,F,Uniqlo,T-shirt,Fashion,1725 INR
+000088,24,M,Hyderabad,1052,Uniqlo T-shirt,Uniqlo,M,Uniqlo,T-shirt,Fashion,1885 INR
+000042,35,F,Thiruvananthapuram,1053,Dell Laptop,Dell,F,Dell,Laptop,Electronics,87896 INR
+000028,44,F,Vadodara,1054,Levi's Jeans,Levi's,F,Levi's,Jeans,Fashion,2102 INR
+000009,37,F,Hyderabad,1055,Nivia Yoga Mat,Nivia,F,Nivia,Yoga Mat,Sports & Outdoors,1011 INR
+000025,30,M,Pune,1056,OnePlus Smartphone,OnePlus,M,OnePlus,Smartphone,Electronics,21626 INR
+000047,30,F,Bhopal,1057,Butterfly Mixer Grinder,Butterfly,F,Butterfly,Mixer Grinder,Home & Kitchen,3529 INR
+000088,19,M,Bhopal,1058,Butterfly Mixer Grinder,Butterfly,M,Butterfly,Mixer Grinder,Home & Kitchen,4409 INR
+000061,55,F,Bhopal,1059,Fitbit Smartwatch,Fitbit,F,Fitbit,Smartwatch,Electronics,47144 INR
+000012,36,M,Indore,1060,Samsung Smartphone,Samsung,M,Samsung,Smartphone,Electronics,90007 INR
+000100,31,M,Pune,1061,Sony Earbuds,Sony,M,Sony,Earbuds,Electronics,14418 INR
+000066,19,M,Visakhapatnam,1062,Samsung Smartwatch,Samsung,M,Samsung,Smartwatch,Electronics,41396 INR
+000002,32,F,Thiruvananthapuram,1063,H&M T-shirt,H&M,F,H&M,T-shirt,Fashion,1167 INR
+000049,40,F,Jaipur,1064,Apple Earbuds,Apple,F,Apple,Earbuds,Electronics,10900 INR
+000087,51,F,Patna,1065,Apple Laptop,Apple,F,Apple,Laptop,Electronics,97045 INR
+000085,41,F,Chandigarh,1066,Lenovo Laptop,Lenovo,F,Lenovo,Laptop,Electronics,38367 INR
+000044,35,F,Jaipur,1067,H&M T-shirt,H&M,F,H&M,T-shirt,Fashion,685 INR
+000020,51,M,Bangalore,1068,Cetaphil Face Wash,Cetaphil,M,Cetaphil,Face Wash,Beauty & Personal Care,776 INR
+000041,26,M,Visakhapatnam,1069,H&M T-shirt,H&M,M,H&M,T-shirt,Fashion,1157 INR
+000052,42,M,Patna,1070,Mamaearth Face Wash,Mamaearth,M,Mamaearth,Face Wash,Beauty & Personal Care,451 INR
+000093,32,F,Bhopal,1071,Domyos Yoga Mat,Domyos,F,Domyos,Yoga Mat,Sports & Outdoors,996 INR
+000085,53,M,Chandigarh,1072,Lenovo Laptop,Lenovo,M,Lenovo,Laptop,Electronics,46769 INR
+000095,34,M,Lucknow,1073,Dell Laptop,Dell,M,Dell,Laptop,Electronics,76567 INR
+000029,37,F,Lucknow,1074,Lee Jeans,Lee,F,Lee,Jeans,Fashion,3208 INR
+000060,25,F,Bangalore,1075,Himalaya Face Wash,Himalaya,F,Himalaya,Face Wash,Beauty & Personal Care,583 INR
+000025,50,M,Indore,1076,Domyos Yoga Mat,Domyos,M,Domyos,Yoga Mat,Sports & Outdoors,1992 INR
+000007,27,M,Mumbai,1077,Spykar Jeans,Spykar,M,Spykar,Jeans,Fashion,4548 INR
+000019,38,M,Chennai,1078,Bajaj Mixer Grinder,Bajaj,M,Bajaj,Mixer Grinder,Home & Kitchen,4397 INR
+000041,58,M,Ahmedabad,1079,Bajaj Mixer Grinder,Bajaj,M,Bajaj,Mixer Grinder,Home & Kitchen,4930 INR
+000098,28,M,Visakhapatnam,1080,Dell Laptop,Dell,M,Dell,Laptop,Electronics,110541 INR
+000056,58,F,Indore,1081,Reebok Sneakers,Reebok,F,Reebok,Sneakers,Fashion,8280 INR
+000001,20,M,Bhopal,1082,Xiaomi Smartphone,Xiaomi,M,Xiaomi,Smartphone,Electronics,84603 INR
+000025,19,M,Pune,1083,Sony Earbuds,Sony,M,Sony,Earbuds,Electronics,11226 INR
+000017,24,F,Vadodara,1084,Ponds Face Wash,Ponds,F,Ponds,Face Wash,Beauty & Personal Care,271 INR
+000009,20,F,Chandigarh,1085,Bajaj Mixer Grinder,Bajaj,F,Bajaj,Mixer Grinder,Home & Kitchen,8605 INR
+000088,26,F,Visakhapatnam,1086,Wrangler Jeans,Wrangler,F,Wrangler,Jeans,Fashion,2150 INR
+000052,19,M,Pune,1087,Samsung Smartwatch,Samsung,M,Samsung,Smartwatch,Electronics,3436 INR
+000076,50,M,Delhi,1088,Levi's Jeans,Levi's,M,Levi's,Jeans,Fashion,3873 INR
+000082,34,M,Thiruvananthapuram,1089,Apple Smartphone,Apple,M,Apple,Smartphone,Electronics,17587 INR
+000007,25,F,Nagpur,1090,Nike Sneakers,Nike,F,Nike,Sneakers,Fashion,10966 INR
+000033,48,M,Mumbai,1091,Xiaomi Smartphone,Xiaomi,M,Xiaomi,Smartphone,Electronics,70164 INR
+000085,24,F,Thiruvananthapuram,1092,Mamaearth Face Wash,Mamaearth,F,Mamaearth,Face Wash,Beauty & Personal Care,528 INR
+000014,50,M,Chandigarh,1093,Apple Laptop,Apple,M,Apple,Laptop,Electronics,95239 INR
+000026,56,M,Jaipur,1094,Decathlon Yoga Mat,Decathlon,M,Decathlon,Yoga Mat,Sports & Outdoors,1766 INR
+000091,44,F,Kolkata,1095,Realme Smartphone,Realme,F,Realme,Smartphone,Electronics,80058 INR
+000027,48,F,Pune,1096,Apple Smartphone,Apple,F,Apple,Smartphone,Electronics,26665 INR
+000015,54,F,Hyderabad,1097,Asus Laptop,Asus,F,Asus,Laptop,Electronics,39836 INR
+000093,24,F,Pune,1098,Bajaj Mixer Grinder,Bajaj,F,Bajaj,Mixer Grinder,Home & Kitchen,5827 INR
+000060,21,M,Kolkata,1099,Xiaomi Smartphone,Xiaomi,M,Xiaomi,Smartphone,Electronics,62214 INR
+000087,38,F,Delhi,1100,Apple Laptop,Apple,F,Apple,Laptop,Electronics,31267 INR
+000018,60,M,Lucknow,1101,Spykar Jeans,Spykar,M,Spykar,Jeans,Fashion,2997 INR
+000094,23,F,Lucknow,1102,Apple Smartwatch,Apple,F,Apple,Smartwatch,Electronics,28265 INR
+000052,47,F,Indore,1103,Butterfly Mixer Grinder,Butterfly,F,Butterfly,Mixer Grinder,Home & Kitchen,4232 INR
+000015,26,M,Kolkata,1104,Lenovo Laptop,Lenovo,M,Lenovo,Laptop,Electronics,149436 INR
+000076,48,F,Kolkata,1105,Cetaphil Face Wash,Cetaphil,F,Cetaphil,Face Wash,Beauty & Personal Care,467 INR
+000079,19,M,Visakhapatnam,1106,Philips Mixer Grinder,Philips,M,Philips,Mixer Grinder,Home & Kitchen,8238 INR
+000057,20,M,Jaipur,1107,Levi's Jeans,Levi's,M,Levi's,Jeans,Fashion,2634 INR
+000086,39,M,Coimbatore,1108,Apple Earbuds,Apple,M,Apple,Earbuds,Electronics,12329 INR
+000085,59,F,Hyderabad,1109,Nivia Yoga Mat,Nivia,F,Nivia,Yoga Mat,Sports & Outdoors,347 INR
+000083,28,F,Visakhapatnam,1110,Apple Smartwatch,Apple,F,Apple,Smartwatch,Electronics,34220 INR
+000042,33,F,Jaipur,1111,Realme Smartphone,Realme,F,Realme,Smartphone,Electronics,44190 INR
+000071,59,F,Indore,1112,boAt Earbuds,boAt,F,boAt,Earbuds,Electronics,16043 INR
+000057,54,F,Chennai,1113,Butterfly Mixer Grinder,Butterfly,F,Butterfly,Mixer Grinder,Home & Kitchen,6678 INR
+000016,49,M,Delhi,1114,Reebok Sneakers,Reebok,M,Reebok,Sneakers,Fashion,2587 INR
+000072,53,M,Chennai,1115,Ponds Face Wash,Ponds,M,Ponds,Face Wash,Beauty & Personal Care,620 INR
+000072,31,F,Lucknow,1116,Levi's Jeans,Levi's,F,Levi's,Jeans,Fashion,2626 INR
+000059,39,F,Bhopal,1117,Philips Mixer Grinder,Philips,F,Philips,Mixer Grinder,Home & Kitchen,3096 INR
+000098,60,M,Ahmedabad,1118,Lee Jeans,Lee,M,Lee,Jeans,Fashion,3191 INR
+000071,51,F,Delhi,1119,Samsung Smartphone,Samsung,F,Samsung,Smartphone,Electronics,79542 INR
+000018,44,M,Jaipur,1120,Mamaearth Face Wash,Mamaearth,M,Mamaearth,Face Wash,Beauty & Personal Care,292 INR
+000016,43,M,Nagpur,1121,Sony Earbuds,Sony,M,Sony,Earbuds,Electronics,4531 INR
+000097,44,M,Patna,1122,Lenovo Laptop,Lenovo,M,Lenovo,Laptop,Electronics,89950 INR
+000085,55,M,Visakhapatnam,1123,Realme Smartphone,Realme,M,Realme,Smartphone,Electronics,21366 INR
+000071,45,F,Vadodara,1124,Samsung Smartwatch,Samsung,F,Samsung,Smartwatch,Electronics,49873 INR
+000017,24,F,Thiruvananthapuram,1125,Ponds Face Wash,Ponds,F,Ponds,Face Wash,Beauty & Personal Care,616 INR
+000050,44,M,Jaipur,1126,Puma Sneakers,Puma,M,Puma,Sneakers,Fashion,6819 INR
+000058,26,M,Coimbatore,1127,Ponds Face Wash,Ponds,M,Ponds,Face Wash,Beauty & Personal Care,660 INR
+000041,53,M,Mumbai,1128,Sony Earbuds,Sony,M,Sony,Earbuds,Electronics,12314 INR
+000087,26,M,Vadodara,1129,Domyos Yoga Mat,Domyos,M,Domyos,Yoga Mat,Sports & Outdoors,772 INR
+000098,40,F,Patna,1130,Cetaphil Face Wash,Cetaphil,F,Cetaphil,Face Wash,Beauty & Personal Care,790 INR
+000096,52,F,Coimbatore,1131,Realme Smartphone,Realme,F,Realme,Smartphone,Electronics,28955 INR
+000004,42,M,Bangalore,1132,Samsung Smartphone,Samsung,M,Samsung,Smartphone,Electronics,49993 INR
+000097,28,F,Jaipur,1133,Apple Smartwatch,Apple,F,Apple,Smartwatch,Electronics,47258 INR
+000038,31,M,Bhopal,1134,Philips Mixer Grinder,Philips,M,Philips,Mixer Grinder,Home & Kitchen,5175 INR
+000096,59,F,Pune,1135,Domyos Yoga Mat,Domyos,F,Domyos,Yoga Mat,Sports & Outdoors,492 INR
+000049,42,F,Lucknow,1136,Nivia Yoga Mat,Nivia,F,Nivia,Yoga Mat,Sports & Outdoors,353 INR
+000096,34,M,Thiruvananthapuram,1137,Prestige Mixer Grinder,Prestige,M,Prestige,Mixer Grinder,Home & Kitchen,7525 INR
+000097,55,M,Mumbai,1138,Uniqlo T-shirt,Uniqlo,M,Uniqlo,T-shirt,Fashion,663 INR
+000088,22,M,Kolkata,1139,Nivia Yoga Mat,Nivia,M,Nivia,Yoga Mat,Sports & Outdoors,1845 INR
+000006,45,F,Surat,1140,Adidas T-shirt,Adidas,F,Adidas,T-shirt,Fashion,629 INR
+000075,34,M,Lucknow,1141,Prestige Mixer Grinder,Prestige,M,Prestige,Mixer Grinder,Home & Kitchen,2154 INR
+000020,38,M,Thiruvananthapuram,1142,Uniqlo T-shirt,Uniqlo,M,Uniqlo,T-shirt,Fashion,1917 INR
+000074,53,F,Chennai,1143,Wrangler Jeans,Wrangler,F,Wrangler,Jeans,Fashion,2306 INR
+000067,22,M,Coimbatore,1144,Boldfit Yoga Mat,Boldfit,M,Boldfit,Yoga Mat,Sports & Outdoors,676 INR
+000045,32,M,Lucknow,1145,Lee Jeans,Lee,M,Lee,Jeans,Fashion,3204 INR
+000028,57,F,Surat,1146,Apple Smartphone,Apple,F,Apple,Smartphone,Electronics,60351 INR
+000058,33,M,Bangalore,1147,Spykar Jeans,Spykar,M,Spykar,Jeans,Fashion,1728 INR
+000050,34,F,Ahmedabad,1148,Domyos Yoga Mat,Domyos,F,Domyos,Yoga Mat,Sports & Outdoors,2406 INR
+000066,46,F,Bangalore,1149,Adidas T-shirt,Adidas,F,Adidas,T-shirt,Fashion,956 INR
+000066,23,M,Kolkata,1150,Nivia Yoga Mat,Nivia,M,Nivia,Yoga Mat,Sports & Outdoors,2867 INR
+000009,31,M,Coimbatore,1151,Dell Laptop,Dell,M,Dell,Laptop,Electronics,100484 INR
+000090,45,M,Hyderabad,1152,OnePlus Smartphone,OnePlus,M,OnePlus,Smartphone,Electronics,58478 INR
+000005,23,M,Bangalore,1153,Fitbit Smartwatch,Fitbit,M,Fitbit,Smartwatch,Electronics,38574 INR
+000010,54,M,Jaipur,1154,Reebok Sneakers,Reebok,M,Reebok,Sneakers,Fashion,9391 INR
+000081,43,F,Lucknow,1155,OnePlus Smartphone,OnePlus,F,OnePlus,Smartphone,Electronics,30506 INR
+000069,18,M,Patna,1156,Apple Smartphone,Apple,M,Apple,Smartphone,Electronics,61884 INR
+000065,24,F,Chandigarh,1157,Himalaya Face Wash,Himalaya,F,Himalaya,Face Wash,Beauty & Personal Care,388 INR
+000098,46,F,Indore,1158,OnePlus Smartphone,OnePlus,F,OnePlus,Smartphone,Electronics,35489 INR
+000069,32,M,Indore,1159,Domyos Yoga Mat,Domyos,M,Domyos,Yoga Mat,Sports & Outdoors,2897 INR
+000019,37,F,Ahmedabad,1160,Decathlon Yoga Mat,Decathlon,F,Decathlon,Yoga Mat,Sports & Outdoors,804 INR
+000006,18,F,Surat,1161,Nivia Yoga Mat,Nivia,F,Nivia,Yoga Mat,Sports & Outdoors,1548 INR
+000027,40,M,Coimbatore,1162,Decathlon Yoga Mat,Decathlon,M,Decathlon,Yoga Mat,Sports & Outdoors,959 INR
+000024,32,F,Mumbai,1163,Dell Laptop,Dell,F,Dell,Laptop,Electronics,117946 INR
+000073,21,F,Surat,1164,HP Laptop,HP,F,HP,Laptop,Electronics,118039 INR
+000009,34,M,Mumbai,1165,Cetaphil Face Wash,Cetaphil,M,Cetaphil,Face Wash,Beauty & Personal Care,438 INR
+000046,26,M,Delhi,1166,Puma T-shirt,Puma,M,Puma,T-shirt,Fashion,442 INR
+000025,38,F,Nagpur,1167,Lee Jeans,Lee,F,Lee,Jeans,Fashion,2048 INR
+000073,54,F,Lucknow,1168,Adidas Sneakers,Adidas,F,Adidas,Sneakers,Fashion,2079 INR
+000041,33,M,Coimbatore,1169,H&M T-shirt,H&M,M,H&M,T-shirt,Fashion,575 INR
+000087,39,F,Nagpur,1170,Bajaj Mixer Grinder,Bajaj,F,Bajaj,Mixer Grinder,Home & Kitchen,6504 INR
+000063,53,M,Kolkata,1171,Himalaya Face Wash,Himalaya,M,Himalaya,Face Wash,Beauty & Personal Care,387 INR
+000018,52,M,Jaipur,1172,Apple Laptop,Apple,M,Apple,Laptop,Electronics,146930 INR
+000003,50,M,Patna,1173,Cetaphil Face Wash,Cetaphil,M,Cetaphil,Face Wash,Beauty & Personal Care,704 INR
+000028,20,F,Surat,1174,Boldfit Yoga Mat,Boldfit,F,Boldfit,Yoga Mat,Sports & Outdoors,2978 INR
+000100,27,F,Indore,1175,Sony Earbuds,Sony,F,Sony,Earbuds,Electronics,5387 INR
+000060,50,M,Indore,1176,Levi's Jeans,Levi's,M,Levi's,Jeans,Fashion,2756 INR
+000079,28,M,Nagpur,1177,Samsung Smartwatch,Samsung,M,Samsung,Smartwatch,Electronics,39116 INR
+000073,60,M,Visakhapatnam,1178,Levi's Jeans,Levi's,M,Levi's,Jeans,Fashion,2592 INR
+000098,49,M,Chennai,1179,H&M T-shirt,H&M,M,H&M,T-shirt,Fashion,779 INR
+000006,60,M,Vadodara,1180,Spykar Jeans,Spykar,M,Spykar,Jeans,Fashion,4647 INR
+000059,20,M,Lucknow,1181,Asus Laptop,Asus,M,Asus,Laptop,Electronics,113042 INR
+000036,34,M,Indore,1182,Puma Sneakers,Puma,M,Puma,Sneakers,Fashion,11628 INR
+000084,22,F,Indore,1183,Apple Earbuds,Apple,F,Apple,Earbuds,Electronics,12563 INR
+000045,49,F,Thiruvananthapuram,1184,Realme Smartphone,Realme,F,Realme,Smartphone,Electronics,33214 INR
+000057,28,M,Chennai,1185,Domyos Yoga Mat,Domyos,M,Domyos,Yoga Mat,Sports & Outdoors,1166 INR
+000020,29,M,Bhopal,1186,Himalaya Face Wash,Himalaya,M,Himalaya,Face Wash,Beauty & Personal Care,776 INR
+000030,44,F,Delhi,1187,Butterfly Mixer Grinder,Butterfly,F,Butterfly,Mixer Grinder,Home & Kitchen,9348 INR
+000027,55,M,Coimbatore,1188,Samsung Smartphone,Samsung,M,Samsung,Smartphone,Electronics,20655 INR
+000017,54,M,Hyderabad,1189,Nivia Yoga Mat,Nivia,M,Nivia,Yoga Mat,Sports & Outdoors,2644 INR
+000019,21,M,Jaipur,1190,Noise Smartwatch,Noise,M,Noise,Smartwatch,Electronics,41279 INR
+000073,58,M,Chandigarh,1191,Dell Laptop,Dell,M,Dell,Laptop,Electronics,88877 INR
+000078,48,F,Kolkata,1192,Apple Earbuds,Apple,F,Apple,Earbuds,Electronics,5676 INR
+000075,29,F,Kolkata,1193,Spykar Jeans,Spykar,F,Spykar,Jeans,Fashion,1363 INR
+000030,42,F,Hyderabad,1194,Apple Laptop,Apple,F,Apple,Laptop,Electronics,56522 INR
+000067,50,F,Hyderabad,1195,Himalaya Face Wash,Himalaya,F,Himalaya,Face Wash,Beauty & Personal Care,281 INR
+000061,57,M,Surat,1196,Nivia Yoga Mat,Nivia,M,Nivia,Yoga Mat,Sports & Outdoors,681 INR
+000062,60,M,Thiruvananthapuram,1197,Nivia Yoga Mat,Nivia,M,Nivia,Yoga Mat,Sports & Outdoors,2959 INR
+000056,51,F,Bhopal,1198,Realme Smartphone,Realme,F,Realme,Smartphone,Electronics,71224 INR
+000030,48,F,Bhopal,1199,Himalaya Face Wash,Himalaya,F,Himalaya,Face Wash,Beauty & Personal Care,535 INR
+000018,34,F,Pune,1200,HP Laptop,HP,F,HP,Laptop,Electronics,108419 INR
+000070,44,F,Mumbai,1201,Apple Smartphone,Apple,F,Apple,Smartphone,Electronics,90757 INR
+000067,25,M,Indore,1202,Sony Earbuds,Sony,M,Sony,Earbuds,Electronics,14397 INR
+000047,24,M,Coimbatore,1203,Ponds Face Wash,Ponds,M,Ponds,Face Wash,Beauty & Personal Care,367 INR
+000069,45,F,Thiruvananthapuram,1204,Uniqlo T-shirt,Uniqlo,F,Uniqlo,T-shirt,Fashion,1846 INR
+000027,44,F,Kolkata,1205,Spykar Jeans,Spykar,F,Spykar,Jeans,Fashion,2878 INR
+000040,54,F,Indore,1206,Apple Smartwatch,Apple,F,Apple,Smartwatch,Electronics,17058 INR
+000058,28,M,Mumbai,1207,Boldfit Yoga Mat,Boldfit,M,Boldfit,Yoga Mat,Sports & Outdoors,1686 INR
+000071,57,M,Kolkata,1208,Nike Sneakers,Nike,M,Nike,Sneakers,Fashion,3492 INR
+000019,48,F,Chennai,1209,HP Laptop,HP,F,HP,Laptop,Electronics,59067 INR
+000048,23,M,Indore,1210,Puma Sneakers,Puma,M,Puma,Sneakers,Fashion,11788 INR
+000008,29,F,Nagpur,1211,Samsung Smartphone,Samsung,F,Samsung,Smartphone,Electronics,82915 INR
+000037,30,M,Thiruvananthapuram,1212,Decathlon Yoga Mat,Decathlon,M,Decathlon,Yoga Mat,Sports & Outdoors,2819 INR
+000022,20,F,Pune,1213,Samsung Smartphone,Samsung,F,Samsung,Smartphone,Electronics,26382 INR
+000036,43,F,Indore,1214,Adidas Sneakers,Adidas,F,Adidas,Sneakers,Fashion,10482 INR
+000002,22,M,Surat,1215,Puma T-shirt,Puma,M,Puma,T-shirt,Fashion,1493 INR
+000045,40,F,Pune,1216,Mamaearth Face Wash,Mamaearth,F,Mamaearth,Face Wash,Beauty & Personal Care,565 INR
+000052,54,M,Jaipur,1217,Noise Smartwatch,Noise,M,Noise,Smartwatch,Electronics,35176 INR
+000014,53,M,Vadodara,1218,H&M T-shirt,H&M,M,H&M,T-shirt,Fashion,539 INR
+000066,34,F,Nagpur,1219,Reebok Sneakers,Reebok,F,Reebok,Sneakers,Fashion,5985 INR
+000097,39,F,Nagpur,1220,Himalaya Face Wash,Himalaya,F,Himalaya,Face Wash,Beauty & Personal Care,593 INR
+000015,34,M,Indore,1221,JBL Earbuds,JBL,M,JBL,Earbuds,Electronics,11345 INR
+000053,40,M,Jaipur,1222,Sony Earbuds,Sony,M,Sony,Earbuds,Electronics,4047 INR
+000052,39,M,Surat,1223,Noise Smartwatch,Noise,M,Noise,Smartwatch,Electronics,22569 INR
+000046,31,F,Kolkata,1224,Apple Earbuds,Apple,F,Apple,Earbuds,Electronics,7542 INR
+000031,33,F,Mumbai,1225,JBL Earbuds,JBL,F,JBL,Earbuds,Electronics,9182 INR
+000080,40,M,Delhi,1226,Apple Laptop,Apple,M,Apple,Laptop,Electronics,118580 INR
+000085,49,M,Surat,1227,OnePlus Smartphone,OnePlus,M,OnePlus,Smartphone,Electronics,63653 INR
+000080,38,F,Patna,1228,Uniqlo T-shirt,Uniqlo,F,Uniqlo,T-shirt,Fashion,674 INR
+000098,50,F,Indore,1229,JBL Earbuds,JBL,F,JBL,Earbuds,Electronics,2774 INR
+000068,45,F,Surat,1230,Realme Smartphone,Realme,F,Realme,Smartphone,Electronics,60519 INR
+000051,29,F,Delhi,1231,Boldfit Yoga Mat,Boldfit,F,Boldfit,Yoga Mat,Sports & Outdoors,1592 INR
+000089,18,M,Mumbai,1232,Nike Sneakers,Nike,M,Nike,Sneakers,Fashion,7331 INR
+000047,57,F,Kolkata,1233,Domyos Yoga Mat,Domyos,F,Domyos,Yoga Mat,Sports & Outdoors,1271 INR
+000035,48,F,Bhopal,1234,Noise Smartwatch,Noise,F,Noise,Smartwatch,Electronics,29783 INR
+000027,44,F,Bhopal,1235,Puma Sneakers,Puma,F,Puma,Sneakers,Fashion,9384 INR
+000024,54,M,Patna,1236,boAt Earbuds,boAt,M,boAt,Earbuds,Electronics,9845 INR
+000031,53,F,Indore,1237,JBL Earbuds,JBL,F,JBL,Earbuds,Electronics,5900 INR
+000061,18,M,Coimbatore,1238,Prestige Mixer Grinder,Prestige,M,Prestige,Mixer Grinder,Home & Kitchen,9970 INR
+000069,38,F,Chandigarh,1239,Puma T-shirt,Puma,F,Puma,T-shirt,Fashion,1462 INR
+000007,43,M,Kolkata,1240,Samsung Smartphone,Samsung,M,Samsung,Smartphone,Electronics,48330 INR
+000061,58,M,Nagpur,1241,Lee Jeans,Lee,M,Lee,Jeans,Fashion,3757 INR
+000047,53,F,Bhopal,1242,OnePlus Smartphone,OnePlus,F,OnePlus,Smartphone,Electronics,30890 INR
+000045,56,M,Patna,1243,Mamaearth Face Wash,Mamaearth,M,Mamaearth,Face Wash,Beauty & Personal Care,391 INR
+000046,38,F,Nagpur,1244,Lenovo Laptop,Lenovo,F,Lenovo,Laptop,Electronics,110434 INR
+000037,47,M,Kolkata,1245,Spykar Jeans,Spykar,M,Spykar,Jeans,Fashion,4115 INR
+000010,23,M,Lucknow,1246,Sony Earbuds,Sony,M,Sony,Earbuds,Electronics,11383 INR
+000084,36,F,Thiruvananthapuram,1247,Puma Sneakers,Puma,F,Puma,Sneakers,Fashion,9289 INR
+000100,41,F,Coimbatore,1248,Samsung Smartwatch,Samsung,F,Samsung,Smartwatch,Electronics,3513 INR
+000017,33,F,Chennai,1249,JBL Earbuds,JBL,F,JBL,Earbuds,Electronics,14010 INR
+000014,24,M,Visakhapatnam,1250,Nivia Yoga Mat,Nivia,M,Nivia,Yoga Mat,Sports & Outdoors,407 INR
+000099,43,M,Delhi,1251,Puma T-shirt,Puma,M,Puma,T-shirt,Fashion,618 INR
+000011,59,F,Chandigarh,1252,JBL Earbuds,JBL,F,JBL,Earbuds,Electronics,10311 INR
+000057,58,M,Hyderabad,1253,Decathlon Yoga Mat,Decathlon,M,Decathlon,Yoga Mat,Sports & Outdoors,417 INR
+000005,60,F,Lucknow,1254,Butterfly Mixer Grinder,Butterfly,F,Butterfly,Mixer Grinder,Home & Kitchen,5963 INR
+000071,46,M,Surat,1255,Noise Smartwatch,Noise,M,Noise,Smartwatch,Electronics,43356 INR
+000096,58,F,Vadodara,1256,Domyos Yoga Mat,Domyos,F,Domyos,Yoga Mat,Sports & Outdoors,1722 INR
+000062,52,M,Chennai,1257,Bajaj Mixer Grinder,Bajaj,M,Bajaj,Mixer Grinder,Home & Kitchen,7492 INR
+000053,34,M,Chandigarh,1258,Apple Smartphone,Apple,M,Apple,Smartphone,Electronics,83592 INR
+000098,26,F,Chandigarh,1259,Philips Mixer Grinder,Philips,F,Philips,Mixer Grinder,Home & Kitchen,9559 INR
+000097,48,F,Ahmedabad,1260,Puma Sneakers,Puma,F,Puma,Sneakers,Fashion,11781 INR
+000030,18,F,Mumbai,1261,Reebok Sneakers,Reebok,F,Reebok,Sneakers,Fashion,8467 INR
+000032,28,F,Indore,1262,Sony Earbuds,Sony,F,Sony,Earbuds,Electronics,3595 INR
+000055,58,M,Vadodara,1263,Ponds Face Wash,Ponds,M,Ponds,Face Wash,Beauty & Personal Care,391 INR
+000084,52,F,Coimbatore,1264,boAt Earbuds,boAt,F,boAt,Earbuds,Electronics,6977 INR
+000018,36,M,Nagpur,1265,Cetaphil Face Wash,Cetaphil,M,Cetaphil,Face Wash,Beauty & Personal Care,378 INR
+000090,57,F,Mumbai,1266,Levi's Jeans,Levi's,F,Levi's,Jeans,Fashion,2046 INR
+000007,52,M,Kolkata,1267,HP Laptop,HP,M,HP,Laptop,Electronics,65283 INR
+000017,46,M,Pune,1268,Dell Laptop,Dell,M,Dell,Laptop,Electronics,31930 INR
+000064,31,F,Coimbatore,1269,Uniqlo T-shirt,Uniqlo,F,Uniqlo,T-shirt,Fashion,1060 INR
+000060,20,F,Chennai,1270,Apple Smartwatch,Apple,F,Apple,Smartwatch,Electronics,19465 INR
+000100,43,M,Surat,1271,Prestige Mixer Grinder,Prestige,M,Prestige,Mixer Grinder,Home & Kitchen,4648 INR
+000033,42,M,Delhi,1272,Apple Earbuds,Apple,M,Apple,Earbuds,Electronics,15514 INR
+000032,20,M,Nagpur,1273,Asus Laptop,Asus,M,Asus,Laptop,Electronics,117294 INR
+000027,48,F,Chandigarh,1274,Wrangler Jeans,Wrangler,F,Wrangler,Jeans,Fashion,1145 INR
+000096,53,M,Jaipur,1275,Bajaj Mixer Grinder,Bajaj,M,Bajaj,Mixer Grinder,Home & Kitchen,4755 INR
+000047,21,M,Delhi,1276,Apple Earbuds,Apple,M,Apple,Earbuds,Electronics,11633 INR
+000002,28,F,Patna,1277,Lenovo Laptop,Lenovo,F,Lenovo,Laptop,Electronics,133434 INR
+000032,18,M,Patna,1278,Prestige Mixer Grinder,Prestige,M,Prestige,Mixer Grinder,Home & Kitchen,7584 INR
+000099,23,M,Kolkata,1279,Philips Mixer Grinder,Philips,M,Philips,Mixer Grinder,Home & Kitchen,7044 INR
+000098,58,M,Bangalore,1280,Wrangler Jeans,Wrangler,M,Wrangler,Jeans,Fashion,1679 INR
+000017,49,M,Lucknow,1281,Domyos Yoga Mat,Domyos,M,Domyos,Yoga Mat,Sports & Outdoors,2096 INR
+000094,30,M,Indore,1282,Wrangler Jeans,Wrangler,M,Wrangler,Jeans,Fashion,2853 INR
+000006,49,F,Surat,1283,Puma T-shirt,Puma,F,Puma,T-shirt,Fashion,1727 INR
+000063,30,M,Surat,1284,Lee Jeans,Lee,M,Lee,Jeans,Fashion,4637 INR
+000036,56,M,Chennai,1285,Decathlon Yoga Mat,Decathlon,M,Decathlon,Yoga Mat,Sports & Outdoors,2140 INR
+000038,34,F,Nagpur,1286,Realme Smartphone,Realme,F,Realme,Smartphone,Electronics,64681 INR
+000094,29,M,Thiruvananthapuram,1287,Wrangler Jeans,Wrangler,M,Wrangler,Jeans,Fashion,3427 INR
+000093,22,F,Mumbai,1288,Boldfit Yoga Mat,Boldfit,F,Boldfit,Yoga Mat,Sports & Outdoors,2558 INR
+000020,57,F,Lucknow,1289,Puma Sneakers,Puma,F,Puma,Sneakers,Fashion,3809 INR
+000013,51,M,Bangalore,1290,Samsung Smartwatch,Samsung,M,Samsung,Smartwatch,Electronics,4049 INR
+000026,24,F,Mumbai,1291,Apple Laptop,Apple,F,Apple,Laptop,Electronics,104843 INR
+000083,42,F,Vadodara,1292,Ponds Face Wash,Ponds,F,Ponds,Face Wash,Beauty & Personal Care,150 INR
+000047,32,M,Ahmedabad,1293,Apple Earbuds,Apple,M,Apple,Earbuds,Electronics,3620 INR
+000060,58,M,Bhopal,1294,Boldfit Yoga Mat,Boldfit,M,Boldfit,Yoga Mat,Sports & Outdoors,1811 INR
+000091,21,F,Vadodara,1295,Apple Smartphone,Apple,F,Apple,Smartphone,Electronics,54833 INR
+000010,31,M,Delhi,1296,Apple Earbuds,Apple,M,Apple,Earbuds,Electronics,7208 INR
+000025,51,M,Patna,1297,Noise Smartwatch,Noise,M,Noise,Smartwatch,Electronics,8914 INR
+000099,58,F,Nagpur,1298,Nike Sneakers,Nike,F,Nike,Sneakers,Fashion,4733 INR
+000024,53,F,Vadodara,1299,Wrangler Jeans,Wrangler,F,Wrangler,Jeans,Fashion,4429 INR
+000046,38,F,Bhopal,1300,Reebok Sneakers,Reebok,F,Reebok,Sneakers,Fashion,7299 INR
+000078,33,M,Indore,1301,Domyos Yoga Mat,Domyos,M,Domyos,Yoga Mat,Sports & Outdoors,1774 INR
+000058,46,F,Ahmedabad,1302,Xiaomi Smartphone,Xiaomi,F,Xiaomi,Smartphone,Electronics,93087 INR
+000003,51,M,Chandigarh,1303,Xiaomi Smartphone,Xiaomi,M,Xiaomi,Smartphone,Electronics,44083 INR
+000028,38,M,Jaipur,1304,Decathlon Yoga Mat,Decathlon,M,Decathlon,Yoga Mat,Sports & Outdoors,686 INR
+000005,47,F,Hyderabad,1305,Fitbit Smartwatch,Fitbit,F,Fitbit,Smartwatch,Electronics,26057 INR
+000075,33,M,Jaipur,1306,Nike T-shirt,Nike,M,Nike,T-shirt,Fashion,1468 INR
+000052,54,M,Chennai,1307,Spykar Jeans,Spykar,M,Spykar,Jeans,Fashion,2216 INR
+000063,54,M,Thiruvananthapuram,1308,Nike T-shirt,Nike,M,Nike,T-shirt,Fashion,1796 INR
+000074,42,M,Bangalore,1309,Lee Jeans,Lee,M,Lee,Jeans,Fashion,4357 INR
+000054,25,M,Thiruvananthapuram,1310,OnePlus Smartphone,OnePlus,M,OnePlus,Smartphone,Electronics,22094 INR
+000040,51,M,Lucknow,1311,Decathlon Yoga Mat,Decathlon,M,Decathlon,Yoga Mat,Sports & Outdoors,1638 INR
+000065,32,M,Bangalore,1312,Reebok Sneakers,Reebok,M,Reebok,Sneakers,Fashion,11750 INR
+000074,50,M,Pune,1313,Puma Sneakers,Puma,M,Puma,Sneakers,Fashion,8460 INR
+000019,26,F,Chennai,1314,Philips Mixer Grinder,Philips,F,Philips,Mixer Grinder,Home & Kitchen,8040 INR
+000034,23,F,Vadodara,1315,Adidas Sneakers,Adidas,F,Adidas,Sneakers,Fashion,4209 INR
+000062,53,M,Visakhapatnam,1316,Adidas Sneakers,Adidas,M,Adidas,Sneakers,Fashion,11194 INR
+000079,51,M,Pune,1317,HP Laptop,HP,M,HP,Laptop,Electronics,131813 INR
+000056,38,M,Delhi,1318,Reebok Sneakers,Reebok,M,Reebok,Sneakers,Fashion,7984 INR
+000045,30,F,Bhopal,1319,Himalaya Face Wash,Himalaya,F,Himalaya,Face Wash,Beauty & Personal Care,412 INR
+000022,40,F,Thiruvananthapuram,1320,Noise Smartwatch,Noise,F,Noise,Smartwatch,Electronics,4941 INR
+000030,30,F,Hyderabad,1321,Apple Laptop,Apple,F,Apple,Laptop,Electronics,126938 INR
+000007,33,M,Chandigarh,1322,Xiaomi Smartphone,Xiaomi,M,Xiaomi,Smartphone,Electronics,29585 INR
+000040,46,F,Ahmedabad,1323,Wrangler Jeans,Wrangler,F,Wrangler,Jeans,Fashion,2535 INR
+000027,52,F,Surat,1324,Prestige Mixer Grinder,Prestige,F,Prestige,Mixer Grinder,Home & Kitchen,1801 INR
+000049,55,M,Jaipur,1325,Apple Smartwatch,Apple,M,Apple,Smartwatch,Electronics,20613 INR
+000026,57,F,Bangalore,1326,Philips Mixer Grinder,Philips,F,Philips,Mixer Grinder,Home & Kitchen,2591 INR
+000050,60,F,Bhopal,1327,Apple Laptop,Apple,F,Apple,Laptop,Electronics,68337 INR
+000084,42,M,Indore,1328,Nivia Yoga Mat,Nivia,M,Nivia,Yoga Mat,Sports & Outdoors,1592 INR
+000063,56,M,Kolkata,1329,Apple Earbuds,Apple,M,Apple,Earbuds,Electronics,19372 INR
+000092,19,M,Pune,1330,Domyos Yoga Mat,Domyos,M,Domyos,Yoga Mat,Sports & Outdoors,1666 INR
+000063,43,M,Ahmedabad,1331,Lee Jeans,Lee,M,Lee,Jeans,Fashion,3711 INR
+000081,37,M,Vadodara,1332,Nike T-shirt,Nike,M,Nike,T-shirt,Fashion,1581 INR
+000033,42,M,Surat,1333,Adidas T-shirt,Adidas,M,Adidas,T-shirt,Fashion,610 INR
+000044,43,M,Chennai,1334,Adidas Sneakers,Adidas,M,Adidas,Sneakers,Fashion,8837 INR
+000031,54,M,Coimbatore,1335,Puma T-shirt,Puma,M,Puma,T-shirt,Fashion,974 INR
+000058,52,M,Mumbai,1336,Samsung Smartwatch,Samsung,M,Samsung,Smartwatch,Electronics,11051 INR
+000040,51,M,Coimbatore,1337,Samsung Smartwatch,Samsung,M,Samsung,Smartwatch,Electronics,22807 INR
+000009,53,M,Kolkata,1338,Wrangler Jeans,Wrangler,M,Wrangler,Jeans,Fashion,1041 INR
+000098,38,F,Coimbatore,1339,Uniqlo T-shirt,Uniqlo,F,Uniqlo,T-shirt,Fashion,1827 INR
+000082,35,M,Mumbai,1340,Dell Laptop,Dell,M,Dell,Laptop,Electronics,54215 INR
+000004,57,F,Thiruvananthapuram,1341,Mamaearth Face Wash,Mamaearth,F,Mamaearth,Face Wash,Beauty & Personal Care,710 INR
+000030,32,M,Bhopal,1342,Lenovo Laptop,Lenovo,M,Lenovo,Laptop,Electronics,47575 INR
+000065,56,F,Bhopal,1343,Noise Smartwatch,Noise,F,Noise,Smartwatch,Electronics,34207 INR
+000061,26,M,Mumbai,1344,boAt Earbuds,boAt,M,boAt,Earbuds,Electronics,14388 INR
+000098,18,F,Coimbatore,1345,JBL Earbuds,JBL,F,JBL,Earbuds,Electronics,7703 INR
+000009,29,F,Thiruvananthapuram,1346,Bajaj Mixer Grinder,Bajaj,F,Bajaj,Mixer Grinder,Home & Kitchen,8996 INR
+000032,45,F,Bangalore,1347,Cetaphil Face Wash,Cetaphil,F,Cetaphil,Face Wash,Beauty & Personal Care,420 INR
+000051,57,M,Vadodara,1348,Lenovo Laptop,Lenovo,M,Lenovo,Laptop,Electronics,89886 INR
+000006,33,F,Bangalore,1349,Boldfit Yoga Mat,Boldfit,F,Boldfit,Yoga Mat,Sports & Outdoors,2414 INR
+000098,58,M,Mumbai,1350,Uniqlo T-shirt,Uniqlo,M,Uniqlo,T-shirt,Fashion,1115 INR
+000039,36,F,Kolkata,1351,Puma Sneakers,Puma,F,Puma,Sneakers,Fashion,2893 INR
+000089,51,M,Nagpur,1352,Philips Mixer Grinder,Philips,M,Philips,Mixer Grinder,Home & Kitchen,9702 INR
+000015,29,M,Indore,1353,Puma Sneakers,Puma,M,Puma,Sneakers,Fashion,9387 INR
+000004,29,F,Patna,1354,Apple Earbuds,Apple,F,Apple,Earbuds,Electronics,3955 INR
+000033,38,M,Delhi,1355,Apple Laptop,Apple,M,Apple,Laptop,Electronics,122566 INR
+000058,58,F,Chennai,1356,Boldfit Yoga Mat,Boldfit,F,Boldfit,Yoga Mat,Sports & Outdoors,2395 INR
+000079,28,F,Surat,1357,Nike Sneakers,Nike,F,Nike,Sneakers,Fashion,4799 INR
+000043,54,M,Kolkata,1358,Samsung Smartwatch,Samsung,M,Samsung,Smartwatch,Electronics,48664 INR
+000007,44,F,Chandigarh,1359,Bajaj Mixer Grinder,Bajaj,F,Bajaj,Mixer Grinder,Home & Kitchen,4460 INR
+000016,26,M,Ahmedabad,1360,Ponds Face Wash,Ponds,M,Ponds,Face Wash,Beauty & Personal Care,112 INR
+000059,49,F,Surat,1361,Realme Smartphone,Realme,F,Realme,Smartphone,Electronics,79679 INR
+000031,31,F,Nagpur,1362,Reebok Sneakers,Reebok,F,Reebok,Sneakers,Fashion,3300 INR
+000077,56,M,Pune,1363,Domyos Yoga Mat,Domyos,M,Domyos,Yoga Mat,Sports & Outdoors,2838 INR
+000081,53,M,Bangalore,1364,Samsung Smartwatch,Samsung,M,Samsung,Smartwatch,Electronics,5608 INR
+000084,40,M,Hyderabad,1365,Realme Smartphone,Realme,M,Realme,Smartphone,Electronics,94073 INR
+000039,39,M,Bangalore,1366,Lenovo Laptop,Lenovo,M,Lenovo,Laptop,Electronics,53363 INR
+000021,36,M,Nagpur,1367,Ponds Face Wash,Ponds,M,Ponds,Face Wash,Beauty & Personal Care,136 INR
+000012,37,F,Bhopal,1368,Nike Sneakers,Nike,F,Nike,Sneakers,Fashion,9001 INR
+000071,22,F,Visakhapatnam,1369,Apple Smartwatch,Apple,F,Apple,Smartwatch,Electronics,47522 INR
+000036,39,F,Vadodara,1370,JBL Earbuds,JBL,F,JBL,Earbuds,Electronics,2906 INR
+000014,54,M,Visakhapatnam,1371,Ponds Face Wash,Ponds,M,Ponds,Face Wash,Beauty & Personal Care,537 INR
+000078,38,F,Vadodara,1372,Ponds Face Wash,Ponds,F,Ponds,Face Wash,Beauty & Personal Care,232 INR
+000079,54,F,Vadodara,1373,Butterfly Mixer Grinder,Butterfly,F,Butterfly,Mixer Grinder,Home & Kitchen,4447 INR
+000079,32,F,Mumbai,1374,Apple Smartphone,Apple,F,Apple,Smartphone,Electronics,18143 INR
+000060,58,M,Mumbai,1375,Cetaphil Face Wash,Cetaphil,M,Cetaphil,Face Wash,Beauty & Personal Care,523 INR
+000006,39,F,Surat,1376,boAt Earbuds,boAt,F,boAt,Earbuds,Electronics,7592 INR
+000089,36,F,Chennai,1377,H&M T-shirt,H&M,F,H&M,T-shirt,Fashion,1337 INR
+000071,38,M,Delhi,1378,Lee Jeans,Lee,M,Lee,Jeans,Fashion,4044 INR
+000093,54,M,Kolkata,1379,Sony Earbuds,Sony,M,Sony,Earbuds,Electronics,12073 INR
+000087,48,F,Bangalore,1380,Noise Smartwatch,Noise,F,Noise,Smartwatch,Electronics,12183 INR
+000081,47,F,Nagpur,1381,Nike Sneakers,Nike,F,Nike,Sneakers,Fashion,10537 INR
+000039,54,F,Surat,1382,Nivia Yoga Mat,Nivia,F,Nivia,Yoga Mat,Sports & Outdoors,1153 INR
+000074,39,F,Chennai,1383,Fitbit Smartwatch,Fitbit,F,Fitbit,Smartwatch,Electronics,4042 INR
+000044,42,M,Patna,1384,Cetaphil Face Wash,Cetaphil,M,Cetaphil,Face Wash,Beauty & Personal Care,291 INR
+000077,25,F,Lucknow,1385,Xiaomi Smartphone,Xiaomi,F,Xiaomi,Smartphone,Electronics,69246 INR
+000012,49,M,Bhopal,1386,Bajaj Mixer Grinder,Bajaj,M,Bajaj,Mixer Grinder,Home & Kitchen,5041 INR
+000068,37,M,Delhi,1387,Levi's Jeans,Levi's,M,Levi's,Jeans,Fashion,2455 INR
+000012,46,M,Visakhapatnam,1388,Decathlon Yoga Mat,Decathlon,M,Decathlon,Yoga Mat,Sports & Outdoors,1079 INR
+000044,48,F,Lucknow,1389,Apple Smartwatch,Apple,F,Apple,Smartwatch,Electronics,35826 INR
+000087,26,M,Bangalore,1390,Butterfly Mixer Grinder,Butterfly,M,Butterfly,Mixer Grinder,Home & Kitchen,3397 INR
+000001,37,M,Thiruvananthapuram,1391,HP Laptop,HP,M,HP,Laptop,Electronics,91194 INR
+000006,24,F,Ahmedabad,1392,Ponds Face Wash,Ponds,F,Ponds,Face Wash,Beauty & Personal Care,754 INR
+000027,38,M,Mumbai,1393,H&M T-shirt,H&M,M,H&M,T-shirt,Fashion,1390 INR
+000041,46,M,Jaipur,1394,Samsung Smartwatch,Samsung,M,Samsung,Smartwatch,Electronics,19933 INR
+000015,18,M,Mumbai,1395,Domyos Yoga Mat,Domyos,M,Domyos,Yoga Mat,Sports & Outdoors,2550 INR
+000041,35,M,Chandigarh,1396,Mamaearth Face Wash,Mamaearth,M,Mamaearth,Face Wash,Beauty & Personal Care,275 INR
+000010,37,F,Surat,1397,Philips Mixer Grinder,Philips,F,Philips,Mixer Grinder,Home & Kitchen,3631 INR
+000004,48,M,Delhi,1398,Nike Sneakers,Nike,M,Nike,Sneakers,Fashion,3410 INR
+000055,43,M,Thiruvananthapuram,1399,Cetaphil Face Wash,Cetaphil,M,Cetaphil,Face Wash,Beauty & Personal Care,731 INR
+000046,37,F,Mumbai,1400,Nivia Yoga Mat,Nivia,F,Nivia,Yoga Mat,Sports & Outdoors,2207 INR
+000073,26,M,Nagpur,1401,Lenovo Laptop,Lenovo,M,Lenovo,Laptop,Electronics,70683 INR
+000088,59,F,Visakhapatnam,1402,JBL Earbuds,JBL,F,JBL,Earbuds,Electronics,5709 INR
+000079,34,F,Indore,1403,Fitbit Smartwatch,Fitbit,F,Fitbit,Smartwatch,Electronics,23283 INR
+000059,49,M,Chennai,1404,Philips Mixer Grinder,Philips,M,Philips,Mixer Grinder,Home & Kitchen,7258 INR
+000062,47,M,Chandigarh,1405,Wrangler Jeans,Wrangler,M,Wrangler,Jeans,Fashion,4961 INR
+000014,43,M,Lucknow,1406,Nivia Yoga Mat,Nivia,M,Nivia,Yoga Mat,Sports & Outdoors,1537 INR
+000069,47,F,Patna,1407,Adidas Sneakers,Adidas,F,Adidas,Sneakers,Fashion,5992 INR
+000071,28,F,Indore,1408,HP Laptop,HP,F,HP,Laptop,Electronics,57294 INR
+000089,55,F,Coimbatore,1409,Ponds Face Wash,Ponds,F,Ponds,Face Wash,Beauty & Personal Care,657 INR
+000089,33,M,Chennai,1410,Cetaphil Face Wash,Cetaphil,M,Cetaphil,Face Wash,Beauty & Personal Care,217 INR
+000076,56,F,Lucknow,1411,Nivia Yoga Mat,Nivia,F,Nivia,Yoga Mat,Sports & Outdoors,2123 INR
+000023,37,F,Chennai,1412,Himalaya Face Wash,Himalaya,F,Himalaya,Face Wash,Beauty & Personal Care,710 INR
+000099,42,F,Visakhapatnam,1413,Apple Smartphone,Apple,F,Apple,Smartphone,Electronics,43522 INR
+000018,55,M,Hyderabad,1414,Noise Smartwatch,Noise,M,Noise,Smartwatch,Electronics,36816 INR
+000038,42,F,Mumbai,1415,Sony Earbuds,Sony,F,Sony,Earbuds,Electronics,10821 INR
+000073,37,F,Bhopal,1416,Asus Laptop,Asus,F,Asus,Laptop,Electronics,31064 INR
+000079,50,F,Hyderabad,1417,Nike T-shirt,Nike,F,Nike,T-shirt,Fashion,1056 INR
+000071,21,M,Surat,1418,Levi's Jeans,Levi's,M,Levi's,Jeans,Fashion,3111 INR
+000004,33,F,Patna,1419,Puma Sneakers,Puma,F,Puma,Sneakers,Fashion,8271 INR
+000052,42,F,Surat,1420,JBL Earbuds,JBL,F,JBL,Earbuds,Electronics,16560 INR
+000018,30,F,Bhopal,1421,Adidas Sneakers,Adidas,F,Adidas,Sneakers,Fashion,6726 INR
+000086,26,M,Ahmedabad,1422,Apple Laptop,Apple,M,Apple,Laptop,Electronics,48873 INR
+000093,49,F,Hyderabad,1423,Dell Laptop,Dell,F,Dell,Laptop,Electronics,114180 INR
+000054,47,F,Thiruvananthapuram,1424,Noise Smartwatch,Noise,F,Noise,Smartwatch,Electronics,35385 INR
+000055,53,F,Indore,1425,Wrangler Jeans,Wrangler,F,Wrangler,Jeans,Fashion,2322 INR
+000055,56,M,Patna,1426,Prestige Mixer Grinder,Prestige,M,Prestige,Mixer Grinder,Home & Kitchen,9720 INR
+000035,44,F,Bangalore,1427,Realme Smartphone,Realme,F,Realme,Smartphone,Electronics,78342 INR
+000091,41,M,Patna,1428,Philips Mixer Grinder,Philips,M,Philips,Mixer Grinder,Home & Kitchen,3827 INR
+000094,51,F,Nagpur,1429,Nivia Yoga Mat,Nivia,F,Nivia,Yoga Mat,Sports & Outdoors,2443 INR
+000079,23,M,Visakhapatnam,1430,Asus Laptop,Asus,M,Asus,Laptop,Electronics,134608 INR
+000075,37,M,Lucknow,1431,Nivia Yoga Mat,Nivia,M,Nivia,Yoga Mat,Sports & Outdoors,2220 INR
+000059,50,F,Patna,1432,Spykar Jeans,Spykar,F,Spykar,Jeans,Fashion,3691 INR
+000038,36,M,Bangalore,1433,Ponds Face Wash,Ponds,M,Ponds,Face Wash,Beauty & Personal Care,677 INR
+000034,21,F,Patna,1434,Apple Smartwatch,Apple,F,Apple,Smartwatch,Electronics,45012 INR
+000038,57,M,Chandigarh,1435,Philips Mixer Grinder,Philips,M,Philips,Mixer Grinder,Home & Kitchen,3577 INR
+000065,22,F,Jaipur,1436,Fitbit Smartwatch,Fitbit,F,Fitbit,Smartwatch,Electronics,20036 INR
+000033,18,M,Thiruvananthapuram,1437,Samsung Smartwatch,Samsung,M,Samsung,Smartwatch,Electronics,45198 INR
+000058,41,M,Jaipur,1438,Apple Earbuds,Apple,M,Apple,Earbuds,Electronics,6924 INR
+000068,20,F,Chennai,1439,Samsung Smartwatch,Samsung,F,Samsung,Smartwatch,Electronics,34502 INR
+000097,44,F,Pune,1440,Prestige Mixer Grinder,Prestige,F,Prestige,Mixer Grinder,Home & Kitchen,4954 INR
+000074,40,M,Jaipur,1441,Apple Laptop,Apple,M,Apple,Laptop,Electronics,51967 INR
+000060,43,F,Chandigarh,1442,Prestige Mixer Grinder,Prestige,F,Prestige,Mixer Grinder,Home & Kitchen,7722 INR
+000088,42,F,Jaipur,1443,Noise Smartwatch,Noise,F,Noise,Smartwatch,Electronics,2777 INR
+000037,46,F,Lucknow,1444,Nivia Yoga Mat,Nivia,F,Nivia,Yoga Mat,Sports & Outdoors,698 INR
+000069,58,F,Coimbatore,1445,Ponds Face Wash,Ponds,F,Ponds,Face Wash,Beauty & Personal Care,443 INR
+000035,35,M,Jaipur,1446,Cetaphil Face Wash,Cetaphil,M,Cetaphil,Face Wash,Beauty & Personal Care,572 INR
+000099,33,M,Vadodara,1447,Wrangler Jeans,Wrangler,M,Wrangler,Jeans,Fashion,3366 INR
+000071,18,M,Chennai,1448,OnePlus Smartphone,OnePlus,M,OnePlus,Smartphone,Electronics,27805 INR
+000068,24,F,Bhopal,1449,Sony Earbuds,Sony,F,Sony,Earbuds,Electronics,9254 INR
+000025,20,M,Thiruvananthapuram,1450,Apple Laptop,Apple,M,Apple,Laptop,Electronics,107874 INR
+000085,31,M,Delhi,1451,Asus Laptop,Asus,M,Asus,Laptop,Electronics,47027 INR
+000049,60,M,Delhi,1452,Fitbit Smartwatch,Fitbit,M,Fitbit,Smartwatch,Electronics,21304 INR
+000060,60,M,Nagpur,1453,Uniqlo T-shirt,Uniqlo,M,Uniqlo,T-shirt,Fashion,1717 INR
+000086,38,F,Kolkata,1454,HP Laptop,HP,F,HP,Laptop,Electronics,131856 INR
+000008,42,F,Lucknow,1455,Xiaomi Smartphone,Xiaomi,F,Xiaomi,Smartphone,Electronics,49690 INR
+000023,46,M,Visakhapatnam,1456,Apple Earbuds,Apple,M,Apple,Earbuds,Electronics,6847 INR
+000083,49,M,Hyderabad,1457,Boldfit Yoga Mat,Boldfit,M,Boldfit,Yoga Mat,Sports & Outdoors,1194 INR
+000079,59,M,Nagpur,1458,Nike T-shirt,Nike,M,Nike,T-shirt,Fashion,371 INR
+000010,22,F,Nagpur,1459,OnePlus Smartphone,OnePlus,F,OnePlus,Smartphone,Electronics,34510 INR
+000084,58,M,Bangalore,1460,Puma Sneakers,Puma,M,Puma,Sneakers,Fashion,4483 INR
+000090,39,F,Patna,1461,Realme Smartphone,Realme,F,Realme,Smartphone,Electronics,79314 INR
+000062,45,F,Chennai,1462,Decathlon Yoga Mat,Decathlon,F,Decathlon,Yoga Mat,Sports & Outdoors,313 INR
+000050,48,M,Patna,1463,Domyos Yoga Mat,Domyos,M,Domyos,Yoga Mat,Sports & Outdoors,1665 INR
+000088,37,F,Bangalore,1464,HP Laptop,HP,F,HP,Laptop,Electronics,100074 INR
+000044,23,F,Chandigarh,1465,JBL Earbuds,JBL,F,JBL,Earbuds,Electronics,19169 INR
+000006,42,M,Chandigarh,1466,Nike Sneakers,Nike,M,Nike,Sneakers,Fashion,7886 INR
+000063,23,F,Mumbai,1467,Apple Smartwatch,Apple,F,Apple,Smartwatch,Electronics,14654 INR
+000004,55,M,Visakhapatnam,1468,Nike Sneakers,Nike,M,Nike,Sneakers,Fashion,10856 INR
+000083,37,F,Surat,1469,Philips Mixer Grinder,Philips,F,Philips,Mixer Grinder,Home & Kitchen,2106 INR
+000044,21,F,Bangalore,1470,Nike Sneakers,Nike,F,Nike,Sneakers,Fashion,5468 INR
+000084,60,F,Surat,1471,Samsung Smartwatch,Samsung,F,Samsung,Smartwatch,Electronics,6720 INR
+000005,27,F,Ahmedabad,1472,Philips Mixer Grinder,Philips,F,Philips,Mixer Grinder,Home & Kitchen,5476 INR
+000090,59,M,Ahmedabad,1473,Apple Smartwatch,Apple,M,Apple,Smartwatch,Electronics,22141 INR
+000013,47,M,Patna,1474,Apple Laptop,Apple,M,Apple,Laptop,Electronics,44965 INR
+000064,56,M,Chennai,1475,Apple Earbuds,Apple,M,Apple,Earbuds,Electronics,12054 INR
+000095,43,F,Delhi,1476,Mamaearth Face Wash,Mamaearth,F,Mamaearth,Face Wash,Beauty & Personal Care,429 INR
+000028,20,M,Lucknow,1477,Apple Laptop,Apple,M,Apple,Laptop,Electronics,65899 INR
+000019,44,M,Bhopal,1478,Decathlon Yoga Mat,Decathlon,M,Decathlon,Yoga Mat,Sports & Outdoors,2096 INR
+000032,55,M,Hyderabad,1479,Asus Laptop,Asus,M,Asus,Laptop,Electronics,79300 INR
+000100,28,M,Visakhapatnam,1480,Apple Laptop,Apple,M,Apple,Laptop,Electronics,30946 INR
+000023,23,F,Coimbatore,1481,Prestige Mixer Grinder,Prestige,F,Prestige,Mixer Grinder,Home & Kitchen,4877 INR
+000019,58,F,Vadodara,1482,Butterfly Mixer Grinder,Butterfly,F,Butterfly,Mixer Grinder,Home & Kitchen,5419 INR
+000023,57,M,Thiruvananthapuram,1483,Noise Smartwatch,Noise,M,Noise,Smartwatch,Electronics,42111 INR
+000012,58,F,Bhopal,1484,Nike Sneakers,Nike,F,Nike,Sneakers,Fashion,11137 INR
+000031,30,M,Vadodara,1485,Asus Laptop,Asus,M,Asus,Laptop,Electronics,77435 INR
+000098,52,M,Nagpur,1486,Sony Earbuds,Sony,M,Sony,Earbuds,Electronics,2738 INR
+000025,25,M,Visakhapatnam,1487,Prestige Mixer Grinder,Prestige,M,Prestige,Mixer Grinder,Home & Kitchen,4117 INR
+000086,20,M,Bhopal,1488,Adidas T-shirt,Adidas,M,Adidas,T-shirt,Fashion,1190 INR
+000033,39,F,Bangalore,1489,Apple Laptop,Apple,F,Apple,Laptop,Electronics,100432 INR
+000023,28,M,Visakhapatnam,1490,Nivia Yoga Mat,Nivia,M,Nivia,Yoga Mat,Sports & Outdoors,590 INR
+000031,46,F,Coimbatore,1491,Sony Earbuds,Sony,F,Sony,Earbuds,Electronics,8538 INR
+000100,25,F,Pune,1492,Dell Laptop,Dell,F,Dell,Laptop,Electronics,126698 INR
+000053,30,F,Pune,1493,Lenovo Laptop,Lenovo,F,Lenovo,Laptop,Electronics,106689 INR
+000063,21,F,Hyderabad,1494,Apple Earbuds,Apple,F,Apple,Earbuds,Electronics,6834 INR
+000050,41,M,Nagpur,1495,Sony Earbuds,Sony,M,Sony,Earbuds,Electronics,9837 INR
+000026,39,M,Bangalore,1496,Himalaya Face Wash,Himalaya,M,Himalaya,Face Wash,Beauty & Personal Care,387 INR
+000018,25,F,Nagpur,1497,Adidas Sneakers,Adidas,F,Adidas,Sneakers,Fashion,7629 INR
+000029,36,M,Thiruvananthapuram,1498,Samsung Smartwatch,Samsung,M,Samsung,Smartwatch,Electronics,7667 INR
+000053,51,F,Mumbai,1499,Cetaphil Face Wash,Cetaphil,F,Cetaphil,Face Wash,Beauty & Personal Care,573 INR
+000036,18,F,Pune,1500,Sony Earbuds,Sony,F,Sony,Earbuds,Electronics,15229 INR
